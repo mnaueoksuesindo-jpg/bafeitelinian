@@ -1,0 +1,133 @@
+name: Auto Search AI News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-ai-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch AI news and generate markdown
+        run: |
+          python <<'PY'
+          import urllib.request
+          import urllib.parse
+          import xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+          from datetime import datetime, timezone
+
+          queries = [
+              "AI",
+              "artificial intelligence",
+              "OpenAI",
+              "Anthropic",
+              "Google Gemini",
+              "Microsoft Copilot"
+          ]
+
+          def google_news_rss(query):
+              q = urllib.parse.quote(query)
+              return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
+          items = []
+
+          for q in queries:
+              url = google_news_rss(q)
+              try:
+                  with urllib.request.urlopen(url, timeout=20) as resp:
+                      data = resp.read()
+                  root = ET.fromstring(data)
+
+                  for item in root.findall("./channel/item"):
+                      title = (item.findtext("title") or "").strip()
+                      link = (item.findtext("link") or "").strip()
+                      pub = (item.findtext("pubDate") or "").strip()
+                      source_el = item.find("source")
+                      source = (source_el.text or "").strip() if source_el is not None and source_el.text else "Unknown"
+
+                      if not title or not link:
+                          continue
+
+                      try:
+                          dt = parsedate_to_datetime(pub)
+                          if dt.tzinfo is None:
+                              dt = dt.replace(tzinfo=timezone.utc)
+                      except Exception:
+                          dt = datetime.now(timezone.utc)
+
+                      items.append({
+                          "title": title,
+                          "link": link,
+                          "source": source,
+                          "published": dt,
+                          "query": q,
+                      })
+              except Exception as e:
+                  items.append({
+                      "title": f"[Failed to fetch query: {q}]",
+                      "link": "",
+                      "source": "Workflow",
+                      "published": datetime.now(timezone.utc),
+                      "query": q,
+                  })
+
+          # 去重：按标题+链接
+          seen = set()
+          deduped = []
+          for x in sorted(items, key=lambda i: i["published"], reverse=True):
+              key = (x["title"], x["link"])
+              if key in seen:
+                  continue
+              seen.add(key)
+              deduped.append(x)
+
+          top_items = deduped[:30]
+
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+          lines = []
+          lines.append("# AI News Digest")
+          lines.append("")
+          lines.append(f"Updated: {now}")
+          lines.append("")
+          lines.append("This file is generated automatically by GitHub Actions.")
+          lines.append("")
+
+          for idx, item in enumerate(top_items, 1):
+              published = item["published"].strftime("%Y-%m-%d %H:%M UTC")
+              title = item["title"]
+              source = item["source"]
+              query = item["query"]
+              link = item["link"]
+
+              if link:
+                  lines.append(f"{idx}. [{title}]({link})")
+              else:
+                  lines.append(f"{idx}. {title}")
+              lines.append(f"   - Source: {source}")
+              lines.append(f"   - Published: {published}")
+              lines.append(f"   - Keyword: {query}")
+              lines.append("")
+
+          with open("ai_news.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+
+          print("Generated ai_news.md successfully.")
+          PY
+
+      - name: Commit and push result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ai_news.md
+          git diff --cached --quiet || git commit -m "Update AI news digest"
+          git push
