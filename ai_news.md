@@ -1,155 +1,155 @@
 # AI News Digest
 
-Updated: 2026-10-11 14:42 UTC
+Updated: 2026-10-12 17:27 UTC
 
 This file is generated automatically by GitHub Actions.
 
-1. [Iran-based Network Used AI And Fake Journalists To Place Articles On News Sites, OpenAI Says - i24NEWS](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMDdZWVBEVkl0ajBqTzFzY0VFX0tfNUt3cmVjN2E2dnBxdXRUR3FEdFoxX2FoUGNIdEpZcGt1VDExMU1lOFZsbXBsMm9xbjJFQ1FhOFh3Y21TX3NSYkpIQUM5SlZYZkg2Y1V3enByUTAxb0thVFBpWHNiYnFKV3lXVXpYSjIxUzdGS3A2OHBUN3JERjV3X2JEcUp1MFJiQVUwQ0JZdndWV2ZuLUlXb0xHcTd4dVViemY5SW9acDV2OWphLTJjV1JNNVRVNkhFQVktT2VvdFJ0UVcwVHA1VWsyVVpVTnVuUkZVb0g4V2dFVjg?oc=5)
-   - Source: i24NEWS
-   - Published: 2026-10-11 14:36 UTC
-   - Keyword: OpenAI
-
-2. [In the race for AI dominance, the U.S. relies on a surprising ally: China - The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxPampVelRXenFROGQ5cWFmNjZ2SllDblBvR1dFOGdRY1MySU5DLXNtRnlCWHpNalh3aFNwWlhaWkxPM2R0aDlzRGRyUjl3aEZLTlBmQlpmUWlhUFZ6aDNMZWlVNDIwRlhSV2JoRjh0OTNkcGFzTG1BT3U0VjIzVmZYVjRtdWlPVGl3SnM2LXFXT09Wb1lCVzIzcjVWMlpxSDY5QjJB?oc=5)
-   - Source: The Washington Post
-   - Published: 2026-10-11 14:33 UTC
-   - Keyword: AI
-
-3. [Anthropic Took Its AI Tests Offline After Claude Submitted a False Homicide Tip to Police - Men's Journal](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVBDOVpCQUxPd1NNMFdTN2d6N1BxVHFkQlgzdGxFSnpyY3NYdmp5NDd5SGZnWC1iZDFKNktQQUpFT2tGdTBIR0ZnWk9GTmtFOFBObmxZQkc3dE1ZYTdTTHgzQmF3ZGdQa2NJSzZ3RFpiZDJxZlhBWnZGWkVBX1FMMW5ZdXNPSWtuaGMtek9ncmdCMlpEZlg5U01uLVh6OXBURldfZDc5ZTczVkc5SE1vVm1GekF4ek96Rnp0bE5QOA?oc=5)
-   - Source: Men's Journal
-   - Published: 2026-10-11 14:20 UTC
+1. [IREN Stock Gains as Report Names Anthropic as Cloud Client - GuruFocus](https://news.google.com/rss/articles/CBMingFBVV95cUxPQzk4TlpTQXlGZW03cGhWR3FLejRFUmJZYkZuMWN6dlNVcGc5dmQzZXVuWERsSnRSaXNSMUVhR3ZMLVZSSHFZN3hWS3M5Q3pyRGEzMlZmTHZlbjZ6em5fSFdyZEVOMEkyNEFNQkJyNnVEQklxbXd4a1lEMGpLVXdlQWxDcFkyNlR5eUowOENlemxva2taZjlsb0NBMlcxZw?oc=5)
+   - Source: GuruFocus
+   - Published: 2026-10-12 17:22 UTC
    - Keyword: Anthropic
 
-4. [Anthropic's artificial intelligence invented a murder witness and sent false information to U.S. police - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcENWdjVicnhVWnVia2Myc054azhULXUtX0tGM1pMYjB2a21wdWNibWlsbHR0MEJEemg4d2huTzIzN21ETlEzTzhWYWxBckFPUnozWXBuSG15Mkh6OG9Wc3B5VHlwTGZBSWRMR2dEbWUtMXhjOVFDUXRPcXphazB3RGRhMWRrY2FWSS1SaHEzVW1xVnJaODRNRlVZUm56bzlKNVFPdWZrT18tZmE1QWtPVVNsejRBQXA1Q2ZhV1dWZUzSAb8BQVVfeXFMUEF3MDhsaTA4dDdCT0xWcWtYOXVWdXZtaWlwV3hFbWVic2J6N1JBU0Q2R2RjU0FibFNBbzMzdHpYUzNhU1Y0TktteC0tVGZYanJyV01pVmpIQVRwNGFjTWFjZklwUThodDVobWYzdUdsOTBaYnFjWTE4a1NuaTh6ejJGS3Fib0pKeFJfS19yVlR2OUJjT3k2LWJHZmRyYXpVZDA4U1U1VGFlYmJVVzhWLTVOVjMxZHEzb3c0MWdSaEk?oc=5)
-   - Source: Українські Національні Новини (УНН)
-   - Published: 2026-10-11 14:15 UTC
-   - Keyword: artificial intelligence
-
-5. [OpenAI’s $20 billion revenue gap rattles the AI trade - TheStreet](https://news.google.com/rss/articles/CBMilwFBVV95cUxObHlmNnp1N3dSdmVEOWE5aV9ld001MXYxTGN3N0M3bnZMVHdoRWJKZDNNR2YybDhqZVVtZHZHQWJhaGtCakZzdGgya2dUVXoxeUFoNkVneTBoOHZ6Z2hxbUpkcUwzTHowTHBXOHhXWTk2UktZUUJuN3JHZ0hMcXo4QzUtVlV1cGZpQW83VTlaMmotSVdHY1RN?oc=5)
-   - Source: TheStreet
-   - Published: 2026-10-11 14:07 UTC
-   - Keyword: OpenAI
-
-6. [AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense? - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxQblJEMEZ5ckNkV3ByaTBXczlvNUQ3dXJGbVQ5RTdtUEpSYUhwU3FlbU10am13djNkX2YyRTRvd1Z0REwxR2M2blZQajRpNzZjdnE1Q0wxZkZBOWlGQkNkVk9rTUxiYnN4M2FYeEMwNFR5UHk1Vnc3WTMtMVpvSEhpREdfcFhweF81cUIxWm1kT3VkRjBWQnc?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-10-11 14:00 UTC
-   - Keyword: artificial intelligence
-
-7. [Yet Another Literary Prizewinner Seems to Be AI - The Atlantic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnJmZGd0THZWR29CaTNYQUIySFRqel90MGRqdEJCUkdycnMzRXFLX25CdFZTYU5CakpRV19wYTVvYS1LQ1VQR2VDX3UzUEFudTE5am1oUE4yUkRrR0JZMy1pa1dOcE5Pd2tVcFhkemhzY1BVSXktUWcyM0ZQNUtpaFBWa3U5NTNGOTBMNG1vTXZkZTVlQnF5RQ?oc=5)
-   - Source: The Atlantic
-   - Published: 2026-10-11 14:00 UTC
+2. [Amazon reportedly weighs $7B startup acquisition as AI spending accelerates - KIRO 7 News Seattle](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTZDSTJBQTlPU05TeDFORlJUNGZRYkFJVW1hTE5YdXA0c056UFk2TnFBYVZtOVRzRUlXMUJTdkpWSXRjd0Voc3pJRlhSMHkyYWR2djJiMldkY3dnUTVuOThJSzV0WkVlTTNma1l6OENqYkZHLS1ieU44cEVnbzY5MHlEbkFYZWNnZGNoN1Q2N3lHWjVPX3R2bEFNWEY2QTFiak9tRkxPOU1HZENCZks0VDZNTlFCYnhRYTRGYXZWUnpXV2gzWkV3SmRYaGXSAeABQVVfeXFMT0pnQ1d0RkJ6ellCNW5QbTRvUDNSMkQ0NWMtQlBqTHV0c1hzRXB0aEdJTk9TZDhPT3lsSERpLW9sZDhuVnZSZVlaU29vT0N0VXJoUWFEWmppM1RyRFpNYXlHMHFTNkVfSUpBc3YxUGxJQXFLTXh5LUlseXRwRlZ6aWllc003MWRLTG5LSVlSbzFkY29fdURaX3psZUNRR0w2MnhBNkY1OTl0eHNodUtlblAwWWJSMWo2SWxaWHJPbWlJc1d1MjFJM2VReVBmUzRhM3N1eUNWWFRJUkJkR2FWOGM?oc=5)
+   - Source: KIRO 7 News Seattle
+   - Published: 2026-10-12 17:19 UTC
    - Keyword: AI
 
-8. [These execs think voice AI hasn’t reached its ChatGPT moment yet - TechCrunch](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2xqRkpxRTVFNjAwTHA4dWtoYmNKZ29Hd2FpMnhmUWpGWDczbmVHOURiZjczSWlUcnZjN1BTbFdicU43cXMtU0FUQ3RrSWdkXzNYd3oyUGppYWVJZHMyajJodFZ3N3E1UnMtVjhvcWVyOG83ZFBlUDVaQ01zanhQVWE5V29FbEJfMVZ2SW9IVk9ibENhRFRwYUNNeS1nV0k?oc=5)
-   - Source: TechCrunch
-   - Published: 2026-10-11 14:00 UTC
-   - Keyword: AI
-
-9. [Loyola is asking young adults about life with AI, and how it affects their spirituality - NOLA.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkR4LUZhZU1CblhzaXBsNTNVYTR5eGFiNUtUZVlBQmYyLWRzU29qaWYydDJzbnE4TnBVaWEzRjJwRjdueEhuTGx4cEVBUVY2NkxfcjRsbDZHLWdPSGZHaHhLWjFVZEk0UkcxbFJfcUh4N293aW02Q3MzaTVfSWZ3aE4zRTI4UXlOSXlWWkdSRy02SjdiZEp5WHJpR1l0a3RETURhdDk0ZDjSAa4BQVVfeXFMUFg2RTRkdzBRRWs3OVB2aHFfaFk0a3NLekZXQ2JiM0c3YXV4WkhLc1FmMHM0Y1oyZklKZTIya1pHSDRTSllkdy1YWG1xMldLSDZpUGh1QjBvREF6TDN4SmUtMWFXQ2FYN3JMUGREcm9sZ0FZMFhsV0lzdXlhT2U5RzllR3dXUWJVbENVYW03ejEtMW51WjU1TEtwajhkeFNZcmYxb21iY2phc3hrc213?oc=5)
-   - Source: NOLA.com
-   - Published: 2026-10-11 14:00 UTC
-   - Keyword: AI
-
-10. [Quantum is Poised for a Commercial Leap, Investors Have Noticed - The Daily Upside](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa28zN1JCbm1qVjBfZHlOSFBVMEJYaV92NUhVaGpLSjZsSVR4OGxfVjhodXZOTWtxT0tJdi16X0RKaG5kcWRKbkxsNDB3b3RqS0VlSjV1b0dzbV8xRDU1N0gyRURYc2NRbDZSTjRNUW5mdjBDOVc4WW5DczVzbUVhTG5xSjJuZ0tCM1BtQW4wYlBOa0J3UHNVT3R5SUtjU1lFOERTb1JSUG1rUDNfZ2tkeDM1MEpTYmRVeDNMY1hITzFQSmdNWEctZw?oc=5)
-   - Source: The Daily Upside
-   - Published: 2026-10-11 14:00 UTC
-   - Keyword: artificial intelligence
-
-11. [How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHdHRWE0TmJZOVotLUNOU3F5REl6YWh1clVZNzRsdXRhRzdkcjlnUzVET3BHYjFsUkQ4SEFtUXNZSTl4WFJCZ0hIRjJqUk9wRC1tclBwOGF3NERIM2RqcmRYWGQ5MXNCTWxyVlVTNWg5ZGttUXN2RVVOWXVFVmx3SEg0RWtxbGpMWFFCRE9JRWN4Tnl4NDc2OFY5aU5fb3NpMFB3bXpuWDd0Sll1MXBXSWllVXhoQQ?oc=5)
-   - Source: Barchart.com
-   - Published: 2026-10-11 13:45 UTC
+3. [Anthropic AI Agent Gave Police A Fake Tip-Off In An Unsolved Murder Case - IFLScience](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVNIbnVKeXUyeFF3XzZUbzhseHhVM2R2anZZcXY4TUtHX0JUZjdqV1lvV3g5Qk5JUl9NZjZVOF9RTDFVWm5iakxvel9HMzRwNWQtc2JPZF9KY3BBM2JwVkJfUk45d295eEZkaXYxYTY3ME9Mcm9sSkhUcERGSTVubFdkQWNZUGNPZEF0YkU4UVh4azhZM1JEMElqSDJUc19wY2x2NlNpNG4?oc=5)
+   - Source: IFLScience
+   - Published: 2026-10-12 17:15 UTC
    - Keyword: Anthropic
 
-12. [Zoom Communications: Undervalued Core Business With The Anthropic Stake On Top (NASDAQ:ZM) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0tmZ3Q4WjI3QU9lUXZzTjhuS0kwQ2NidW9mX0YwZllwOG5DdENoNjJhT2lrVlBkcmdpLVFUODV3SFdpZThwMFVhd0NIQWY4dHQ0VHlMWnNReW1GVkdxRmxpc18yNU0tMTN0aW1JdHhZRzVXNGpxWjE1SzVrck5yeHE1LUl4dzY4QWs2YU5CSTZGYUlBbkZhSC1ha2JSOW42MFlxUlZrU2poaTJ6b204eEZtMFpMellFUXc?oc=5)
-   - Source: Seeking Alpha
-   - Published: 2026-10-11 13:44 UTC
-   - Keyword: Anthropic
+4. [Microsoft to expand Azure Maia system to multi-gigawatt deployments - The Official Microsoft Blog](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWtCRTJBSThLQjBSa09qbEhKc2d2N0xyMDdJYXFXZWg4UGFRcUExcVBBd292eFl2WGwzVXBCVzg2WWtnOFM5eE1ma2gzTGNSMms5SFFpdTZOVjR4TEZEcmlpZmNYbEdUZmxya1FremFRNmVNTTdzYUlRdzZEYmFBV3VwVWNEUmFDMG9NMjNRX25BRW9Gbktyb0RGNWE2a0kxLTV0VEZ1YXozZDRuNm91YkpB?oc=5)
+   - Source: The Official Microsoft Blog
+   - Published: 2026-10-12 17:15 UTC
+   - Keyword: AI
 
-13. [Microsoft's Nadella Wants An Emergency Brake On Every AI Model - Forbes](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDVmSEh3X0pzMWZMMy1fNjRKZjlFZ3VHVHBkZ2RodUtHLUFGanVJWHl1X0NSZW82VlNkYjI5OVdJcmxYNHRFeVFfQloyV0ctZ1JCVk5TWHJrTzZJQUpTNURwdXhRVFpvOWdsRkktOUFyM1BIbENZeG5pMUlGam9YY0Y5MTBKY2Z0ZHBGYndBNGV2cm02bkRBdkZiN1pBRHVscG1WTjR5aHJJTkRlaVNPZzAxcEV5b2NoVWd2dGh4WQ?oc=5)
+5. [Moonshot AI Plans Record $50 Billion Hong Kong IPO as Founders Fight Equity Lawsuit - Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHdiQm9JMHQ5MDd3UUVGaHZiZWtTY1hZZi1rVWcxTm1mbmdHcElTN19CQW1OR2daZ04yeEpjSllUb0hMTFY3YUpOdGQ2LTNPbWNJcExvRmszdU9Db0JINjNDZWdKeGdsQkVPZklYMGVxMUVZMmZmNGUzWFpiNnVXbXA4SjdPZzZudnlydVA4MVVDc2s1Q2Exdm8wTFlZOTdLUVFmbjlqaElzNHJFOHVRbU9QYmhYX1JaOVRTdWhoTkxvVjdvWkJZN0J1Qmo3VzhQTTlWdzd3?oc=5)
    - Source: Forbes
-   - Published: 2026-10-11 13:42 UTC
+   - Published: 2026-10-12 17:14 UTC
    - Keyword: AI
 
-14. [AI is automating coding. So why are software developer job postings on the rise? - CNBC](https://news.google.com/rss/articles/CBMicEFVX3lxTE80a2hhYm5Pd1BrUWdvV1lNQ0pvUGVhSDRicGVQWG1IU3J1MzlBN012VDA4QjlITVdwcUFXcUl5anVacHpXZzgxaDI2a19BaHJvbnVLaU1EdXNGX3VwSWc2RDd2amhCdm9VblR3cTVodTbSAXZBVV95cUxPc1pqTVJmenh6aFNEUEdaMU0wMTN3eWRLNTBrR29LWHhQdzUyWXk3OEpvX1dEM2NzMXJSZWd4QzNDOVRhRElEaWg5YkN5ZjJ4cHYwd1NyVW5SS3owYUFJMDNvX01PbjNuVDJwQ3NDZlk0SnBITTVR?oc=5)
+6. [OpenAI adds 200 Dublin jobs, launches Applied AI Lab - Quartz](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNjEzc1IxUTJuNWNLZjAwTno2M295VWc4QTRhcjlUdjBCbGFlQnZEQ3A1Wjd5OE13Rjc5enVVTUdveGRQZVZXc01YWHdSNXRNVzFuYWY0Z2VhNDNTSHJNX1NCR2w2Zw?oc=5)
+   - Source: Quartz
+   - Published: 2026-10-12 17:13 UTC
+   - Keyword: OpenAI
+
+7. ['Autonomy always begins with something a human hands it': Who's responsible when an AI agent goes rogue? - Live Science](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjY5Yk44UnUwbEtkUTRhekVWOUpiYWlBdnNsRk5UZFJVN0t4d1kyTXg0RDFOOUYtalFrbjJLQUtwX2FlTTM1QnlrTi1LclRybWVVaWxGX3R0OFBHVTlXd19NeDY2N0RVVDdtQ0lLRDR1M1BKQnRRVFd3MGg2SDB1bFhtc1pZa24zb2dpYzNub1JDX3ctelljbEZlS0lCRXE5Nk9EemxfZHJEOUhmaHFFTjZ6Q3FQTmdwZ1YxemNkRWpJQXZ4ei1rNno2dHk1XzI3M1lsS0JINlY3T1ZiVU1fb0pSblN2SHVyWmtpNnY3TkNRRHV4?oc=5)
+   - Source: Live Science
+   - Published: 2026-10-12 17:08 UTC
+   - Keyword: artificial intelligence
+
+8. [The Hidden Risks of AI Note-taking - JD Supra](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUVhZ3dKcU1uN0RTLW5NS003SEljTlJKQUZVdk9CV2VPQlF3S2JpLVJNbDBQSDVRUTdPeEhXRDM2UDVVc1NxTGlTejRXSWd5MzA1Z2RfSmV1V0h4THR1bVpFXzJnZTZUbjU4bnptdFdZQlA0T2NwYURxMWN1OC1sbU5ycw?oc=5)
+   - Source: JD Supra
+   - Published: 2026-10-12 17:07 UTC
+   - Keyword: AI
+
+9. [Microsoft Bets On In-House Maia Chips for AI From 2027 To Loosen Nvidia’s Grip - NDTV Profit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTBOTllaaUZLdHNRMDk4d2hfWUdlWFR0dEZMeXlRMmNQZWlfVTBoMlNxUlJneGNiT09IUWRGQXkwYjhDZHVZRUVoY2tsRkd6VjdmNlFJV2gzY19RbDN3by1tM3RtdGppR3oyVG4wMHQ0ckZ5ckJxNV9HZ1lzY3NGZ3p1SUFsMkJmOWZZQl9yYjUzeUxJQV9nUzJOQlE3eFpTVXRhaGxtc08yckx5SnFzS2Ita05SeDVFQzZiQjQxbVhFV0HSAcsBQVVfeXFMT3lEbEtSWEp5Y3FNRl9YYjh1ZUFJZ244Qko5cEYwbTlUSDdiNW0zSFZwNFp3SmJFVlZpZG84VlVHbFd4Z2V5QkJwN05yNnp2d0pMRl9tMDhXVTNJUDhrQ1dtZ1FhTy1JWU5pVXR5NHA1NFFCRV9qUVl5aGNVeFVPc2xvUTFjWFJTWVppX3BKS05LVU1SdDRpMmNtT0FMWUNvQXNNcmp5aW9BNU8xT2pIdFpuNWQ5SUhkSDZRaUlaWkdFNVNvVFVMTXFvMEE?oc=5)
+   - Source: NDTV Profit
+   - Published: 2026-10-12 17:05 UTC
+   - Keyword: Microsoft Copilot
+
+10. [OpenAI Defends Researcher Firings Following Dispute Over Safety Practices - The National CIO Review](https://news.google.com/rss/articles/CBMizwFBVV95cUxONkk3dklfUU1OaF9KX29NNnhWTTdmUGs3TThvTjk0NEhtdGRVeHZYeWNIRWtiRTI0WEFFWlJobDBLelYwcklWMllpUzA4bVB2OWpzUl9SRFBSdmxJd1pySE03LWpmTjNCeHM5aGpXeWVKd3ZNM0w1SzNhYlpGM08zTVloM2lUWllOQmJrOTFLN2NGVENoeDBwR1ozODVIdklRRUxHR2pwY3pRZThuTkU4SW9aNUZ4b0c4VXcwVUxHN2pXeW9QNUZKNGtEbVRwajg?oc=5)
+   - Source: The National CIO Review
+   - Published: 2026-10-12 17:04 UTC
+   - Keyword: OpenAI
+
+11. [Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios](https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5)
+   - Source: Axios
+   - Published: 2026-10-12 17:02 UTC
+   - Keyword: AI
+
+12. [Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play - Fierce Network](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGRPcGxVUDBQMWRvWUFCU3EySUhyQWU2WUFtWnVUbzhhX0VnZ2swRzBRbHJlUTBhZ1dxbElJdi1TTzRWLWpOaHQwMnI5WkpGOFZuLTdTOFBsX0dsU2dlbUJfWE5oTkdtd0FOUzNzMkhNejhfVVlFWmVleG5DRzFoRTZjSnAyRnlQM0NwcTB5emNSeXhm?oc=5)
+   - Source: Fierce Network
+   - Published: 2026-10-12 17:02 UTC
+   - Keyword: artificial intelligence
+
+13. [Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5)
    - Source: CNBC
-   - Published: 2026-10-11 13:30 UTC
+   - Published: 2026-10-12 17:00 UTC
    - Keyword: AI
 
-15. [S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmFYWk9mQ05IYlNpbkx5Ym1RN0FfN2R1SmVqZVFyQWxYMVBibWYzSFMtTlF3alpVODB3MDFwYnVkdF94VFJMZm94UHI5NjhEZnVhczNOS1hZQ3gzbVdmYm5FUFRuUDgxb2NVQUlqYVdmQzc5RUJHV3B0cUZFdlBmVjVIWGd1MHlZSlFUNFQwaU11UERKLW9fYQ?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-10-11 13:18 UTC
-   - Keyword: AI
-
-16. [3 British AI Stocks With Revenue Growth Over 12% - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNG9NWlNPcnBvQkRPUXR3OEpwdUlORXVPMWFUcDYyVU5tTXpvQzZlTVNtQTN5ZEVyRTB5Q0RMQ0ZCV29NMGxLNTMzNVlUTVpaRHhZcFpvR0EzX3pjSjZWMDJ6TjZiRHVoOWRVdG1TbWc0NHE4T2VIZ0JkV0kwZC1tOU1USkg2dUYxVGdiVHJCYWpNWUdvOFE?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-10-11 13:10 UTC
-   - Keyword: AI
-
-17. [The AI drive-thru wars aren’t really about your order - Salon.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkRZbTBGb2RFSVFyeDA4NUszQkM2Wk85c0h1WFlGRUxvX3l2VEdGVEZUaE1SMUFvV2JYeHdqT3FZaEZXT2lTeEw4cUtXMmRPVDBuV3gzZXBNRnpwT0Y0SzByVXJaS3BqeWdPSFl2UXNTU056RkdPUTl0aWVwTDh2UzA1V2xVS3NURU1kMTJJRQ?oc=5)
-   - Source: Salon.com
-   - Published: 2026-10-11 13:00 UTC
-   - Keyword: AI
-
-18. [Opinion | Examining the Doctor-A.I. Relationship - The New York Times](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiLUMxNmRRQlJZUl9FdjBZNmRNdERYNW04cnhQbVhJRTBvQ0w0dmpoWjRqN0tpLXFwc0xfcU9CTHJWdHZjRlBOelF1RjFxS2MySUhJRFVZMXFCTnJ3V1I0QzAtZjA5Mi0t?oc=5)
+14. [Meta Unveils New Series of Advanced A.I. Models - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5)
    - Source: The New York Times
-   - Published: 2026-10-11 13:00 UTC
+   - Published: 2026-10-12 17:00 UTC
    - Keyword: AI
 
-19. [The hidden tax on enterprise AI: Why data architecture is the ROI problem nobody budgeted for - SiliconANGLE](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmVBWEtFUE9WOXk2M0xtN20wdGVibHVzSzJKcERvU3YxcTc3cDA0S29pODJ5cDdNd0h2VVNkZ2c1WlBWaWxyNGNEUF9NbFFBZU1ndmFQajFrQ0JBZ0ktY2kzT2ZoeFl3bFZSRnJYUGVSRm5Rak1vRWZka0JXbmxZaXlEWmFHMHR3ZWVwbmotcWZMdlB5bElSR3hUWFNMM0xjbVFZUGZ6SWtBaWpOWWhOOWNfdy1hZGZvOGh5b3BDaThGTjFNUk81TA?oc=5)
-   - Source: SiliconANGLE
-   - Published: 2026-10-11 13:00 UTC
+15. [Mark Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5)
+   - Source: Financial Times
+   - Published: 2026-10-12 17:00 UTC
    - Keyword: AI
 
-20. [From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope - NBC News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3oyMXNSRFZoSnAyaXlEWGVZN1BVWUIwanRTdEFUbTgyeUFmdmVFQi05djFLSWM5SGdYYnAxSVpZM1pHQmdtTXlDeDZsTHFfVklLM0JUX2ZBdHJzYzBBZzN2NGpSQUZPTzZzNWc1dzhMNnlwZ1NSc0tCaXRBYkdQdldFTHdHMjJwWkNYMW0zQkZOYWFGcjEwUW9ub1gtc3FFNkRvS29aN0g1SGFhRTdQdU1Cd1E3T2RfQ1U4ZHVNc2g?oc=5)
-   - Source: NBC News
-   - Published: 2026-10-11 13:00 UTC
+16. [Muse Wonder Puts Meta Back at the AI Frontier - WIRED](https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY0FvQmd0ZEtLR2ItVFNiRUVhUWZwNzUyeW1VV3VnYWtoRmd5MmR0MjJVV2EwYTcwT3lteG9UREMyU09oMVFlUmtieEt1UnlDaEdBYlZtRzVCTFBvc19wWWhvRWNGT3Bha3RlVDlYQ0FQeWZ6cGZmT19paTdKU0E?oc=5)
+   - Source: WIRED
+   - Published: 2026-10-12 17:00 UTC
+   - Keyword: AI
+
+17. [The AI factory is leaving the data center - Fierce Network](https://news.google.com/rss/articles/CBMie0FVX3lxTFByUzQya0JTbGp3ajllNjhfWmxwVUw4eHdFRERfN3ZQa1JFVTEyVXdwRXgySExwLWoza2t2dUV5VVF2b2ZSMXJsS3lBdGJKZU10d2llRTFrNkNsZmZEbEVaV1duMFE1OWJxRmZEMzNESWlBa0M4Zk04MlZBSQ?oc=5)
+   - Source: Fierce Network
+   - Published: 2026-10-12 16:58 UTC
+   - Keyword: AI
+
+18. [Nicolas Cage Gives The AI Reason Why He May Not Work With Amazon Ever Again: ‘Connect Those Dots’ - Yahoo News New Zealand](https://news.google.com/rss/articles/CBMieEFVX3lxTE5LMVlZUXJkTmowX21tZ0xpMkpfRWxvS0FlQVdJODRTMWFmYW1OOGxFd2lQRFgzVUhsYVF2WUlXQVQ0cDM3Y2ZtdjdNdC1zMVVwblRfUTJFM2JncHVuWlZCWXVVM2NjN1pfbUJuNjVzZTk4amRseEdaVQ?oc=5)
+   - Source: Yahoo News New Zealand
+   - Published: 2026-10-12 16:57 UTC
    - Keyword: artificial intelligence
 
-21. [Building Ada: Three Things Any AI Agent Must Earn Before It Touches Live Operations - Cybersecurity Insiders](https://news.google.com/rss/articles/CBMivwFBVV95cUxONFpMOTRRa1k1VzAtLVM1eWoyWnliemxIb2dxMGVjeHZvUHZsUUN3YjZZT2pJS1lGd3h5YTNzQWVIQ2labmMxdzFndHRYRkxyc2dEUlRWSHVHRnNBTHlHdXpmNmxVb1lNZkZzNDV2bmJkcWI2OG1UYnZHVGgzV2pJNHBSXzRTc2lmWG9za3ZVcFB4aVMteXpseUV0MXZYVW80V1FLTFIyR0tSYkNWWTFEVmtsRXc3eWU4Q25DeWtNNA?oc=5)
-   - Source: Cybersecurity Insiders
-   - Published: 2026-10-11 12:36 UTC
+19. [Meta Says New Muse Model Reaches AI Frontier After 14-Month Push - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEE0WWhsM19sbHp4eXRuUHJNeURDWkpQS2tSdE9scThXNUVrWGN0R19KdHZLdXJnZjJQNFJXRnRsNXNWS1RmeGhlSlR6bVFER0JsWjRraFVIeXpZZkZIblc5TmVaeExWYjRqamRnUUl4enVHb0hnN3B5NUdaV1UwVmlmMVE4QlpYWmhQeWlzVUs5X0dTZkVtSHZDdXJZTHNaLWtFQ3luM0puZk91QlQyeWdPTVg0Zw?oc=5)
+   - Source: Bloomberg.com
+   - Published: 2026-10-12 16:56 UTC
    - Keyword: AI
 
-22. [Not Anthropic. Not AMD. Here's My Top AI Stock for 2027. - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjlBTnlqVUtxM004UTU4SkplRGl5UVpSalBwMkEyTFJHU0xNSGZqa3VwUHZHUjJjenNmRXdNd1NrejVKdmI1Z09rb29sTnNyMzY0WHZKQXZ6eFRadnpMTjlTYXYxY2R4VnJyYk9PQWduNWZGQzVkcTJjQnNtcEJWMUZ6Y3hwRzhRcWIzMUNyUGxqT1NYd3c?oc=5)
+20. [Washington state lawmakers push for AI regulations at state and federal levels - KPTV](https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTFtajZ1UnU2TVhEdUdtUVk5c2RRWGR2SUZLWXhBd2dkWmh3RzhuTnVGWU4wUmRuS1FIcGFNU19MQTZNZ3RFd09xX21INUF4dTdZbm9Lbk5BSWE2d3pGNTVQX05Del94MGdZMFVtSWw5NjZMSmVwdEtLUHFTVngtblZQQ3NUVU5TX3BMMzQwcm5Xc1ZGSjhwT3I0WG9xc1NURkE?oc=5)
+   - Source: KPTV
+   - Published: 2026-10-12 16:51 UTC
+   - Keyword: AI
+
+21. [Rogue AI Agents Are Already Here and Companies Need To Prepare - Forbes](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1pqRzBhMG1wd0VhaTkzeUIwTVdLSUpZNzFDNllOVDVXbDMxM29kdGduYU1YM0hCb0NJNDF5V3EtUnRQR0UydEQzZlBUQVBIX1FTQmpqSnNuMmszeS04SnpTVXZBcmxyeFFzZE1TblhHYnN2QVV2RTYtZ1pjdEdiN0FWamdNUnl4b0t4LXZQMXlVVmJ6RHc?oc=5)
+   - Source: Forbes
+   - Published: 2026-10-12 16:51 UTC
+   - Keyword: AI
+
+22. [VIDEO: Anthropic, Apple and Inflation Set Up Pivotal Week for the Market - RealMoney Pro](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVAxU1BYMGJqMHZfdEdNVGNseVVjaGNWY2RLV2VaZEtJaWdpSmtYU1gwU0Z4Rl9vaW9uSnY2UFZ2ZHBuUXhaUmpMTHlHN09NeWpWZkdLNGZsZ3MwaTAwM1NrU0tjMTlzWnRiWHZab1hhdnZOeFktdmpPSlo4V3k2QXNBdzQwZG9lTjBzS2pNT0swczQyUmZDR1lJTE92MXJIeVV2ME9JeHFGUQ?oc=5)
+   - Source: RealMoney Pro
+   - Published: 2026-10-12 16:49 UTC
+   - Keyword: Anthropic
+
+23. [HR Path Acquires SnapAI To Accelerate Artificial Intelligence Strategy - Pulse 2.0](https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmUzNFp6VTgzNlc2ZGVpMkExZi04MEhORkFfZTBGOU9nSW90SUdjWnRQZkxxY3I3aFFhWmwzal84RnFEb0o4Zjd1dXBYRDEzTGh0VktkMnRHejJ5NGtTdmM2Y2FDUkZ4S2J0M2RKTTcxb0hnb1hYeVlGVVdrN1RWb0dIX2JSaW0xbk9mdlZoRTJ5T3Jk?oc=5)
+   - Source: Pulse 2.0
+   - Published: 2026-10-12 16:45 UTC
+   - Keyword: artificial intelligence
+
+24. [Meta's Muse AI agent brings back 73% of new users — nearly double ChatGPT's rate - Yahoo Finance](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGxtUG55U1Frb2ZCbjhwWUFiMkpfV3cyaGtCV3YwNjByMkJWMnFiekZqa3RYY1RDd1gzcXhEUy1MTVlVdjU2ZjJXemUyTDFDR0VTWXM0dERxZ2F2QVFFaXZMRkdzZXlZOFdZN2ktZ1NtT0JwN0piY0VjaW84Nk91emxIazJXd3RhbnRKdlR0d192NUJFd1ZFQ1NvUjVfWWZla0w4LXpVZVF6akE2NWlRSTUyRkpCeEVrRllFOVVWV1JsbTdkNkZ0ZmkxRmhDdjJhM0E?oc=5)
    - Source: Yahoo Finance
-   - Published: 2026-10-11 12:35 UTC
+   - Published: 2026-10-12 16:45 UTC
    - Keyword: AI
 
-23. [Most US voters say Trump, Congress don't take AI risks seriously, poll finds - Channel 3000](https://news.google.com/rss/articles/CBMihAJBVV95cUxQVGg3R1RYdDM0MElVVXBvc3dyQW11MnU4dUsyV3hSSURCUXl2VG14SDdQdG1QT0RrdWFhQ096WXlGdHpHTm1VT09WQkVkQ3I1WEV2QThMOV9zUXQ3eWlSYW82dmpGeVMzQVR3c0ViUV8xX0trQXNfRGE0X3hPaFVrVnJDeTd6TEVTYmY3Y293dU1OWUxzRXBlRGVrYVRPWVJ6QjltSFhQLVdVMWNWcHRGdUdCS3JyZnIxOXh5S29yOUtZc1pGTkxMSWQ3MVVBYWxja0QyUlpqdVFoZWlnRlJqM1lqUkx0VmdPdHlCVWJrLThENXJ5RC1xZThHblQ2bmd3QW9YeA?oc=5)
-   - Source: Channel 3000
-   - Published: 2026-10-11 12:30 UTC
+25. [The AI Agent Privacy Problem: Who’s Liable When Your Legal AI Shares Client Data? - Law.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkVxME1ZSkZDV25kOU82OWREcGxnVEVMSTBkRkZ6M2JSMEozTEN3cm4tYUluYm9uVldZSmMzUXBjTnllcjJXQTh6QnB6cXVuMVlPaC1HVnVpVTdiTUVnN1FaZHpidVY5eGlwUzJHdHlIR0s4VUJTejViLVRhODZ6NGpfYzRrUFRmcXhxMXk3S0t0MlktZHFRcUpCamFDYWVSM3NsZVBWaHFhVEFPV3VGWG01cG42TjJpYm9ha19TZ0Mtdw?oc=5)
+   - Source: Law.com
+   - Published: 2026-10-12 16:45 UTC
    - Keyword: AI
 
-24. [Copy of Anthropic Launches Free AI Security Scanner To Help Open-Source Projects Find and Fix Vulnerabilities - LinkedIn](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVE9jelg1TzFoQWxEdFJQWC1femJWVTRRbGI0dFJ0YnpQLUxMN29qQTFlX3JuTzVnZGZfZ0hLMHFrdjA0Q09sX2hkVlFRUndHM3FUNURXcWtWdThWMEZWd2pZV0owYm1kazdLWThBd0FHUkVfU1Y4eEVGd2NoZjVWWDBaSGVfRG0tb1A1bk5n?oc=5)
-   - Source: LinkedIn
-   - Published: 2026-10-11 12:27 UTC
+26. [In Defense of Anthropic’s Chatbot-Bullying Ban - National Review](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjNiUzRiam1Gd1NaVFlFbkczM0RiVjZ3V19KZGxrcGhCNXJWMW82UEVtZHJneXA3TGtWYUxxVjhoMFNTM1RuakM5Rnc2cERiZEFkSWVaZ25jNzFQZjVxTERTRldLS3E5QzhjUnRBcGFtRFluaXFKN3FPSU9GOV9RTXE3NjlUVkdrdDhINnNn0gGTAUFVX3lxTE1YQ1Yxd0tlbElVZzZsaTNGd3NFN1ZIWnlKQ1dUWGxlTzBNYUVfUmo5eWlpQ1J1UkxHSUdTeU5vM2Z6b0xSTzRMYlVUQ1Y1akREbVp5RHk0V180cExaN1Z1TnVjaUc2ZE5ISkxEdjZ5cHZUUnZXelUyUHRuVlVHVm1lb0NwZ1VZYk1aNUlDN0wyX3FSTQ?oc=5)
+   - Source: National Review
+   - Published: 2026-10-12 16:44 UTC
    - Keyword: Anthropic
 
-25. [Not Anthropic. Not AMD. Here's My Top AI Stock for 2027. - The Motley Fool](https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1A2RGQtOFNXODRQUkg3WmNPU0NmQkdsVGFqSjlEeXFlNlZSUzNkODl1bUxXV3NNdmU5UXVmN2tIb2NMWHZ0YjRsbnlBVE1KTFMwME5yZXNpTE5DbHpoNWl5UEU0R3liY2I0NjRzbDd4MmpySmk3NHBqbjZvZWp4a1pWVHItOTdoX2NmNjFFVVU?oc=5)
-   - Source: The Motley Fool
-   - Published: 2026-10-11 12:25 UTC
-   - Keyword: AI
-
-26. [Physician and the Machine: An Analysis of the Ethical Educational Use of Artificial Intelligence by Medical Students - Cureus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVlVJZlRMNXdNU0RWZ0xZTzlIOGJtaFYta3hJVFRSQU8xa2lFZGIwcDFqYVQ2YWliaG8wMzVSaTBXNTB1S1BIby1HQnROb0xOcVNqQjdDSlZnU3hmN0J2RlZaOHZrRGp0Q1ZnNTBmcUZNSHkycHQ5WlZVLWw4R0ttX3pCZ2h2aEZyUkh6dlkyR3dyZnMwYWptUE5zaTJQU1lnbXhJN19aeW1BbUxrVVdpWlVSMVhWdHoycDl3TnI4ZlNoLTBNNHNRenVZOUZQVUp4d3JWNUJhV09Fb1N0bnFwdTVvcFQ2VTRoMnc?oc=5)
-   - Source: Cureus
-   - Published: 2026-10-11 12:22 UTC
+27. [AI scams are getting harder to spot. Here’s how to protect yourself - Click2Houston](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXJETG5kamprU2QxSElIeHM5QWMtOW03anFud1c1dmlyV1RTd1NNNzJaOXlCNmN1NjR3cXI3SjZhM01KTkhqU2dacEpDdllIdlpWYlo0WlNROFZsTzJuaU10dVpoUXMtVVk0Z0JTdXhpNk03SzBGUVBVNUpXZ0pKN0N6amJuOWRTdXpPWlJIQkIwSTRwWWlYRjIzR1FMandzWmVwalNEYmZieXJnQWMxeVFaNVhUeWU4QXc?oc=5)
+   - Source: Click2Houston
+   - Published: 2026-10-12 16:40 UTC
    - Keyword: artificial intelligence
 
-27. [Artificial Intelligence in Clinical Decision Making: Supporting Health Professionals Without Replacing Their Judgement - Modern Ghana](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEVsRzM5Nk9tZXVnVXJaVlJrN0pQaHo1a3c2R0I2TnVlTGg5WlZTbER2R3kzQWdFRGVMRnNwenVlanlzOXdsMjZjaTZLYzVmUHdBQWk1T0FRSFlsclJpZVdLRkIyS1NPR0doRXFVZjdyUVVjUDhrdjdtWU1jaU1ZZzNWUkEtcndJS2oyN1JyZ1lRNmdoOVRPRGtBMVnSAZsBQVVfeXFMTWFlQ1dnM0ludW1EckkxQVZxVmhOTGtkZG9ESmJmeEFOb2tkTE9BR2RoSUstOTZ6RTlFV2JxU0hiRTUxWElfeUlRR01pWXpnM3JDeXVRa2ZSb0ZVMnplU2tUQlR2SmthcjZyeV95Q25lSEFDNVhXY184cEhJLVV4S01oZEluU2x0a0VxWEswTzBvSG5MREExRV85YVU?oc=5)
-   - Source: Modern Ghana
-   - Published: 2026-10-11 12:21 UTC
-   - Keyword: artificial intelligence
-
-28. [Anthropic’s Claude submits false police tip | Morning in America - NewsNation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVM4NC1TemtTRUdDLVZKNnBESjV0Ym9KMTAxXzZNLWl1eWRBamh0RUVrdkMtZTNsaVNlVERrbGlIRUlLMW9JRmdPLVdwLWNMS3FUbDMxV2hFcW5TY1FnV2pIZllWUHVGSW5EWU91TnpXYXdpOFJya1diYlVDeHlmV0d4ODNpbHJUT1FQalNob3JxSHNQeW5JZEhGcHNCX2pUMDI2T1ViRF9jQkU?oc=5)
-   - Source: NewsNation
-   - Published: 2026-10-11 12:21 UTC
-   - Keyword: Anthropic
-
-29. [Trump's Accounts Sold AI Suppliers And Rotated (NYSEARCA:VIG) - Seeking Alpha](https://news.google.com/rss/articles/CBMijwFBVV95cUxOME5SRWpFZWNnMWdFOTFxbFBqTWY1a1hmbkpoSW9BbE5KTGF0dDVtZHQwajMyTjR6bXhXQjE2cG1hdUd2TEhOeXNwX0hVUnktY05ZcEppRUJ6bkRuOWc0QmNzNGV1OG00WVRtV19FN19tZUkwSWdyWWZDMWdYcVJQSkVRdnZmSmV0emRsZnNzUQ?oc=5)
-   - Source: Seeking Alpha
-   - Published: 2026-10-11 12:15 UTC
+28. [Utah pursues governmental validation of healthcare AI tools - Healthcare IT News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWc1T2xmeTNXb25IWGcxOWNFTWR4Y2czem9LYlhYTjlyY3NxZlltbVE5R0dmSTFueFdzQkEyOGdsaW5fUlM5SjRiUWJ0S0dheTJMY2Y0Z3ZmYWVGVHphMmQyNE1ybUtSMDN4Smp2VWJGVGhsT2tEZjJ2UzczZS1MUGw4bUtuSVV4VGlsaE5ZQUluS3RKQ3Q1Qml3?oc=5)
+   - Source: Healthcare IT News
+   - Published: 2026-10-12 16:38 UTC
    - Keyword: AI
 
-30. [AI Price Prediction: Insights from Grok on Bitcoin’s Potential by Election Day - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVFiNHZrMk9yemp0YlJQRXBaZXFueXg0Y3BYZXdfczFZSWJSek96MnIwRWljaUtuc0E1RFZtNDNIWWRlekxtcm1lYkZIMlJrSHVQd3lJLTNlUXNZYk82NC05UDBZYU1rUkNHLUoxdmtEWTNRUXJFbXhteHRvTWotZy1nV0liMmNDZll0elFfNTQxdS1hUVdxSU1uMGlHMnBVNTNLSWxCYldwdVZPUEM3T25UN0JkeVUtZXl3dzRxQ3QwWnBFR0pjR2t6SllkR0Za?oc=5)
-   - Source: 24/7 Wall St.
-   - Published: 2026-10-11 12:12 UTC
+29. [Ray Dalio Says This Is When the Artificial Intelligence (AI) Bubble Could Pop - The Globe and Mail](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3YxTDlUcEwxeHJjSHNlUm56clJtbUE0dmJia3oxSHRpM0dsSDlKNk1SMll4c0hIMHktcF9kakluRnFpUHZpTnlUcXI1ckdxUlJvZ0VpMll2TUpfRWNZMDZfU1FRSlNjaXEyVFk2cXF6dm0yNVFBcGNZZFVsampPU0JDZjE2eVg0TTNOeGtjeVJBMXdlQkhrcS16ZndRUi04V2gzRkhJcE9tYnItY2NtLWFJNFRtV2p1S3VsdkdnTnJpMGVBLUZXSWJYRU5OcU92RzRKeERXV0ZaenZrV0lwSGNrdFlDV19mckE?oc=5)
+   - Source: The Globe and Mail
+   - Published: 2026-10-12 16:38 UTC
+   - Keyword: artificial intelligence
+
+30. ['Merry the Christmas Witch' Director: AI-Made Film Cost $1.5 Million - Variety](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmVnbWZXaWdaSEJrTk5UQ0UxZ3ZxS0ZxOTRwVFZiSHgtMzJkV2pBbWhEb1J5RnNEeVcyYVZYR3ZHM0Z5aXBwT3FSRzRoS1ZaZlducm1MWU1IRnVFREVqYWhRSXBmRUhFeHVlYWczZ1pEbUJab0J4Q0k3Nk5Tc28zejZ3ak8xTnNEU3dRQzNSRDludFJETWFiXy0ySHNZLVdMcW13SFd3?oc=5)
+   - Source: Variety
+   - Published: 2026-10-12 16:37 UTC
    - Keyword: AI
