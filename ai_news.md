@@ -1,155 +1,155 @@
 # AI News Digest
 
-Updated: 2026-10-20 13:22 UTC
+Updated: 2026-10-21 13:30 UTC
 
 This file is generated automatically by GitHub Actions.
 
-1. [Building a Document Knowledge Base with Oracle APEX and Oracle AI Vector Search - Oracle Blogs](https://news.google.com/rss/articles/CBMitgFBVV95cUxOT29mdEl0LWUxWF9QZWNQQV9WaWtmZk1teVZsbnBMWmdBT2Vyd2pzT1V5bnlEQ19BZ0lFSkwteF9PdkdEVFZTdEFBTTVPYmxmZ21QRk5ib2pjZzllblBGLURXUHlYOW9mMXEycVNXLTdlWWVNdjRwdUlzQkdoM1VxdElQMFdWbHRSXzY4eUxLUEMwZXVERU1pODZzeC1YSEM1LUtjWFJ3amY1WDdmRUdBUHlybDRXQQ?oc=5)
-   - Source: Oracle Blogs
-   - Published: 2026-10-20 13:17 UTC
+1. [More Anxious than Hopeful, Most Americans Want More Regulation of Artificial Intelligence - Navigator Research](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjA0bDZ4QW5ydzU0YUVVTkJ0VFRRSzJXbkxDZUl2a0pGb2tQNWwwMU5odEVyOGtjaVpZcU92M1F3UkxqenozRlcwMHNDZVhYTzdMd2xmRUhvbTI1MW5uNm84SlYxV2dsT0UxYXlPeXc3cXEta1ZGU1E4b1loX0lLQUVZVGRLd0tpRjZVYlZ4cWFpQVplanVteUFyanU0ODJQLTNvYm12MjM3bFFHTFNQejA5ajh4ME1OMGxr?oc=5)
+   - Source: Navigator Research
+   - Published: 2026-10-21 13:27 UTC
    - Keyword: AI
 
-2. [Claude Unshackled: AI Designs Experimental Antivenom - Hunterbrook](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tYVhkZmNHQnhCMHpaTnVRNmlNN0JVa2otQVN6WkhWN2hoYjRkMGNhWkxRa1Nra2tHUVEyLVZ5M25tVDRraUFZdDRIeDNjakFvamhMNHMtbw?oc=5)
-   - Source: Hunterbrook
-   - Published: 2026-10-20 13:17 UTC
+2. [How We Draw Lines in a World Awash in A.I. Images - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTFBDeHI2ZTRXTm9RSmRyWlBWZmlfbWZGSVVqR1VPcHdSd3hFNEpyeGQ2TUFsNG1iN1I0WUM3blJnNmZSRzEzaWtYWlNIeDRnX2JKZ2JJT3IyYmNOZ2w4QkRfdTFqdzMtdldCQTVSeHliaElDN1EyVDI1WEtn?oc=5)
+   - Source: The New York Times
+   - Published: 2026-10-21 13:21 UTC
    - Keyword: AI
 
-3. [(Reuters): OpenAI plans to accelerate fundraising ahead of Anthropic’s anticipated public offering - صحيفة مال](https://news.google.com/rss/articles/CBMiaEFVX3lxTE42bE55SnlfREc4NWpyczJSeUtnNkw3R3ljaHVIekpHZlY4blFvZWtIcmhDSngwRHdJczdwZDdiTndjOWVSNThCc1BsS3BzalppWVpVa2s4aDJDSTZnQ1FNSEt2c2hyLVU2?oc=5)
-   - Source: صحيفة مال
-   - Published: 2026-10-20 13:07 UTC
+3. [OpenAI expands ChatGPT ads to 26 more countries - Investing.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVpYYVJzaDRVQ09XMFFya0FGTGJ3eTI3VGw1RW1iRWFWeGlQMmZSVVBVVWZCZVJIbGQ1NDJhZE8yLWN0dlNFWm1MS25tUnFFSDVTemlycml6OVAydkFYckZuRUl5d040Ykhwa1JRT3Q5UjkySy11VmduOGlVUmJjckFfazdqZ21keEwwVk5wbnZYR3lGa2NWV3ByaDhKNDVxWHhibUNZbw?oc=5)
+   - Source: Investing.com
+   - Published: 2026-10-21 13:18 UTC
    - Keyword: OpenAI
 
-4. [AI Selloff Returns, Oil Tops $110 a Barrel - WSJ](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFIwYTNvY1RkcV9BYS02QWZBTTczUmVPTUtmaGs0d2JCZFB5eHVMUzd5RkNhVU5EUnJMYlEza1RhS1UyRjhCYlYzZTZER3hDcVI0R2g0SzhxenFDRDl3VjA4dFhrWC1YV0p4UVdaZFg1bHVRSElOVnMycDliaHZRWUdRLU5Nd09aS08wTQ?oc=5)
+4. [Save Hours of Work with These 10 Microsoft Copilot Prompts - Geeky Gadgets](https://news.google.com/rss/articles/CBMidEFVX3lxTFBTSXN6WU5kX1N4Qm9lNkxac2UwNWZQTEZHWDFyaGNWVW1jaDQzNldHRUJ1T0MwN0dLT2RRbHVFZkYyUWVQbW1yX3c3a1dUajNIQXdMY3ExdW9LT2hqem9kTEdrSnlqZmYxcU5WLWt1eVVUd01K?oc=5)
+   - Source: Geeky Gadgets
+   - Published: 2026-10-21 13:17 UTC
+   - Keyword: Microsoft Copilot
+
+5. [AI agents are only as good as the personal information you share. That raises privacy concerns - Aurora Sentinel](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjRXWWQ0bXZXRDV0TUgtdkJFcW54OWRmQldfbUd6eUQwc3poaDgydXlVNHRTWXU4SUlNdFVyckk1S1BUTkdqYmROUEdETUtTS3lRUmdSMkhweDdtVW5HYXc2c2tHZzU0cnpEc01hVkVuRThnVUxNZG1aUDNEc0VRRUZCSUJPMnk4NGxkTE5yZENvX2FjcG9GczA0NzVUR21CRVhnQXBXNDUtaWd1bEE1b1BvVW1iLVpRWk1tR3pkTFVVaDZvcVJCU0g0ZV9zY2lfTk40?oc=5)
+   - Source: Aurora Sentinel
+   - Published: 2026-10-21 13:15 UTC
+   - Keyword: AI
+
+6. [OpenAI acquires Orchestra Bio to expand Rosalind life sciences AI - Quartz](https://news.google.com/rss/articles/CBMid0FVX3lxTE5oYUR4N29NLWVGemJkek82M3NiQjdYY2RXVHQ4d29HQlphVFhsTGlfcmMzQnpGZXJkODZmMzFuU3NrSjJfa2s3cng3V1U4T0hrcXJBdEJpNURhZVdTZFVJTEdBcUxEdDB2VS1CbUZWMUVjdzc3SHVZ?oc=5)
+   - Source: Quartz
+   - Published: 2026-10-21 13:14 UTC
+   - Keyword: AI
+
+7. [The AI boom hasn't revived US investment (yet) - McKinsey & Company](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWQyUUxLUDNuRXNlYlB4MEw2QVpxcU94WWNMSTJTVF90RGFKVk9iYnlzNlhuQkdVd25qTy05bW5vRzV5WGJ6QVF2SXJsMDU2SU1FTU1YNEpSQlh2XzFCR2hBd09BRUVfWlY0V0ZneWhXQWxVYzVqVk50ZU4yaHdSODR1am94dE5tOURaODlyay13cFhHYTFXQjI4Tl9EbUVpa1ZkWHV4R0ZqYVVqT1gwYWJEZVludURsSUVJd1g3X21CaEQwUTlnWFpDd1hGdXppVlE?oc=5)
+   - Source: McKinsey & Company
+   - Published: 2026-10-21 13:12 UTC
+   - Keyword: AI
+
+8. [AI Drives Record Growth in Information Technology - WSJ](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1FUNXNYbUQ4NDMxOTNhQmtMS0J5cmxXakloQlRfa1NaTkwtOV9pRldOMldOXzk0VUczZm9FbkhKV250cTlrWjVMZXhvMG9pdWhHc0daelhvRkNjVGxGY3JjLXhuT3hiSjYxV0xhZDhYazAzY3hwTnNzcEZ2OURVaUV2Ylh0bE03WWprYkRPV2NUZVdF?oc=5)
    - Source: WSJ
-   - Published: 2026-10-20 13:07 UTC
+   - Published: 2026-10-21 13:12 UTC
    - Keyword: AI
 
-5. [AI-slop applications cost enterprise TA teams an average 9 hours per week - HR Brew](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeG1fd3p6M2NEdmZsNGc4elpVLXJpTTVWTXRoRGU3emE2WW1xU0taZGlfZFJ6SjlSUjlYenB3MVdzb3c0dlF2cXVWX2E5MnJJem9DOEdScnBKeDI2d3dJckJmSG5aeTVLWjBsWXNvLVhrWmFLQU9BeHQtU3Ftc2dsQVNZSQ?oc=5)
-   - Source: HR Brew
-   - Published: 2026-10-20 13:04 UTC
-   - Keyword: AI
-
-6. [Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon - Google for Developers Blog](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVWE0eHlpQW16NWZKMUhJcUxIWU5peHVRUWFSSVJGbHVDQ0pmaEtyWGZLMVhHUXJ5QmhoYnExQXlUWGVqTlBRdkVLYVBnWmpPc3NsdVkxN29hMmRmdnJhUkJ6NklfT3Zpb2c3dGJ3VFIzdnRKYkR0X1pLTUM4aUdHYUQySmkwMVZPSFFWYkdHdWR3b05GLXgyTS1mY214Q29vclQtbUhIbVJxU01OanhQcHZWT2QtejFsS3ZOMXRSb1lCUFBDU3RwZGpzelMtWjZRTFRsVHBobEZxLVF1WHc?oc=5)
-   - Source: Google for Developers Blog
-   - Published: 2026-10-20 13:04 UTC
-   - Keyword: AI
-
-7. [Former top OpenAI employees raises capital for defense startup valued at $1.5B - CNBC](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5)
-   - Source: CNBC
-   - Published: 2026-10-20 13:02 UTC
-   - Keyword: OpenAI
-
-8. [AI Is Flooding Drug Discovery With Candidates. Clinical Validation Has No Flood Gates. - The Clinical Trial Vanguard](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDZrVlVlUy1FeE40TEJFQzd4LXBjWEt5eVhUS2RCZU9wUndVdHFRaDFtVHNDMXBWRjRObHFLSjROSy1HR0Z6eTJTR1BFUzJMX2hsTFNuRkFhd3I3VXE0UVN5eG5vVjViN3pLcEhpY2ZJYXZhLU5FaHBjVTRQQW1NZi1kVDNqNmgxQW1ydzBZZ1JQN2hhRzJVeF9sVWFXVzZHaHd4clEwT3lqSVUwcTZUaDExbkJQUTc5eHRfa3pDam5BTTJqbW8xZXM2cHlsUy1vT2IyMTB3RUUwamc?oc=5)
-   - Source: The Clinical Trial Vanguard
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-9. [Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing - CNBC](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2N6RnNWNDJZcjRxRFBHRFlITXVQSi11LXB3cjlZUURzeDhvMWF4czYwMno5UUdaSG5tLXVmNU0wUUFicDB4eHFfQi1JYm5QSEt3Umh5UmZ3SkJ4dnNPVUNob2UtSVBlcWowQXJWX1F1NzYwMXJPbVMxUDdFMmpjNHZzZEQya1p5b3NKaXlQajRIaUUtTmc1a2ttTFdEOEhxUWlwZDJSYjlfV29ZYWfSAbMBQVVfeXFMUEF5akpwN3FvZmh2OThfczI5THlMVUJhRXZMTFZ5eEdlWkRvQU84OVA0bkZYdUFoTi01SlB2cFk5Z2pzRk9mc0tXVDhIVGs5Z1gzY3NjMEJVVi1mNHhMU0tsSnBmZ1g1N1lZTmZyVG53bHN1QUVhcDQ2a3NjQmRZZnJSUl9udENoR05fYWRNYnJnOXptZlZob0FZbzBYVWtxNmU3aTF0SjN4MmI5Uk95VTlyYjg?oc=5)
-   - Source: CNBC
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-10. [Higher Ed Startup Uses AI to Help Colleges Prevent Dropouts - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPODdDMDA4TkZua1N1WV9LWDY4OG1Pd09yb1A5TURIZEN4NU8xc1h6X0RIX0FuRlVfOGVseFNsNjB5T0FlR0NUR1poMm5xRk5HRXcwM0I5V1VmMzNXS09xTExZX25EdDJaaklrWUN3aDlPSU5mcWNxcXVhSG5PVEhLM0lNYWtlcnNRRVVHVmEzcXNLY1pRWGQtU3NyWnJHQnFTdi0xcXV4bDlBTG9WVlRn?oc=5)
-   - Source: Bloomberg.com
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-11. [New LF Research Survey Shows Generative AI Cuts Open Source Coding Time in Half, but 25% of Incoming Pull Requests are Considered AI Slop - PR Newswire](https://news.google.com/rss/articles/CBMimwJBVV95cUxQb1JXUVJ4T0o0VEJWbEY4UUw1Mm1Xclo0YzlyYVhPZkJoTVdjcnpPWkV6aFFxWUVZVDZKVzVQSmRUQkd6UnpmTTBIVDhHRkpxTlFpY3ZWWHdmaF8tTEpFT2ctVlJ0LWx2aW1KMi1KcG1tUGVIUDJBeXdJOW8yZC1mUXJ4WjJRa3JkLXRLMGs2S1pMS3NUaVgta2F3bG51YVl2NWx3UGFiYURDc0NETnJTWTJKODV6TEc0RndZSUszUFotZHF6SzhCd3EwMks0RG1FTmhldkFtcFFIOVhtemRWWmtpY3J2U2pVSWppWEJtNVNMR20xeHpvNmRDVTVEbnJmOW9jQ0dnb2NhU1N5dDg1V2lDVkM0UjRoRU5B?oc=5)
-   - Source: PR Newswire
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-12. [Couchbase AI Data Plane Cuts the Cost of Running Production AI Agents at Enterprise Scale - PR Newswire](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekt2aER1OHgwdENJZ1cxUExXRFJnMkQ1dU1EaVhwODNodUYySHgxWWFuLWJFUlBvdE1WSjVhWDNvcjhFc2c5dGxiaG9tUndyTXBtYW5uRmpNSVhFeG9xYkVyRVVoSE5OZjJhbklGeUsxR2taMDYzR1Q1YUdCUjlPdTFiSDhyX2N5amt4Smx5aEtrVGVTUGZRdXhRU1Ntby0wQkR4U0lib0wwZTlpeUI3SEx1SDhwcGNqVjZFYkFRaUJjVzF0dnpmXy1PU3NFcWJkaDNjS0VKNWFaek9kN3c?oc=5)
-   - Source: PR Newswire
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-13. [AI Makes Everything Look the Same. Here’s How True Experts Stand Out - Campaigns & Elections](https://news.google.com/rss/articles/CBMirAFBVV95cUxONVBMSnNpUFpkUGo5MXZyNnZrUTc5T1pSLTVxc3FIZV9VM3pUTzZwQlRYWXUzV0FyS1h5TWhzRDNtTlV1ODV4U283QmJsVHVlYWxmVG5razdHbFRTdkJkTEM2eDh4WUhtZTVpN0w5SlVoUGhtVXRSWENGSElGMU5UbEtFMmkyaU5FZmpMenNSY3d5WmZCTTZWTUZaRGV0QlZfYUFmc1EySWZjbjJY?oc=5)
-   - Source: Campaigns & Elections
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-14. [Invoca Launches Data + AI Healthcare Solution That Turns More Patient Inquiries Into Booked Appointments - PR Newswire](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc2laNldpYW8wRlNtQWt3bklZTlhseFlGRHo0aU9qSmN2R3N2eHhCTkhJQXY0WS1sXzhRR2RGY0hkMUFvVXgyM0FzdUVXaTdWb2ZtVGlIZW0wR1ZSVDdrMkdvU25leGFIWkhqbDZWN191UjAwcXkydTU2WDk4VEgydEFteWlSNzBTWU1VNTdXYWh2cmFaY25nS2txYjBwRWNDeWhFMm9SYlJCNUJHcUwzNDJLbzRxY2o1UC1IUHFfS2RQN08zR1RNdTVRWmt4LW94aU40dGE1b3Zxd3lVX1NiYUJYZ1hZamI3VXdEVmVEZWM?oc=5)
-   - Source: PR Newswire
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-15. [AI Apocalypse? Maybe, But We Are Counting The Wrong Things! - Forbes](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUxzai1HY0w3dXVkRnAzczJhQ0ZYUkRlN1FWd1c5dzM1V0ZMaTljMHNKeDFQQWliek9MM3V0MXc5Y3dZLVdtcHllWmJZaG5ZRl9JLXVxeTlXV2ZSSlFzS202N09MZktadVFQckhua2tJb2VFdmtfeU1TRm9qN2p0U0FyNGxraDBiU2ItNlpkLXNxM2V5bHM3czN4UEYtN05lVEMzNjBRcUx4WG1xVGhN?oc=5)
-   - Source: Forbes
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: AI
-
-16. [Legal and Compliance Artificial Intelligence (AI) Market is Projected to Reach $151 Billion by 2030 - EIN Presswire](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS0U4OFRoY1BCU0Q3WGRtWWhxc3RiQ3FobFRvRVlHUnQtOGdFTElNQ25GbUx3dS1FS1diQUgtczdHUWhCYTB1dGZYc2VMYVJoY3JGeXFXTDlWTWtJalZwV3FkM1FoLTdFaHJMVjhvb1VSREUxNGItQnd5a0c1ZGRnX21NU0xkLUhYbURnVXdrRlVidzg5QW1mLWNZTDNrNVppeWJWQjQxcDZ3cGFzdlBxbWs0SFJGbk1rMTNQeXpwcjJGalRPLW1CNFd1UndrVXVITXJ1dUNmSjNfUTA?oc=5)
-   - Source: EIN Presswire
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: artificial intelligence
-
-17. [AtScale Named an OpenAI Select Partner - Business Wire](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFkaUlZWmNOVXFZTlhhc1NUYjBiSm0xTzRXZUJuWld0RE41dkJLY3RSN2lKYnRMZWtKY0k2Q3NwNmYxT3RyV2NQVnNsREE0dnhzT3B6amQ3Z3Z4bFRwYzNTZ3ZSbjRoUU1lcG8zZkY5STJuSmJMZHlCRW1BNmk4eGdaSFZwQkU0TWY0N1k5SF9EMlZhNFh1cERWbw?oc=5)
-   - Source: Business Wire
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: OpenAI
-
-18. [Musk and Anthropic kick off a new, weirder era of tech philanthropy - The San Francisco Standard](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsenJySjJmZGg0UWJlMFVCYVA1LXBKekhGVVQ3Rk9uUjlLUkVla0pxMURJZ1o1ak9Jc2dhVXZGYURWVTI4b2ZyaTZfRW5mT2Y0TzNXQXZkTmFEV2lPbUk3a3F0OW9KSENMdFFpTEp4VQ?oc=5)
-   - Source: The San Francisco Standard
-   - Published: 2026-10-20 13:00 UTC
+9. [Anthropic's Draft S-1 Reveals $450 Billion in Non-Cancelable Cloud Commitments — and That's Not Even the Scariest Number - Barchart.com](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQanpXTUp1N0FpUEw0cjBfWUl0R1JHZjg4SzBpZFhBNDBWLURqbVFzUUMwdjZkX0pzMzVXSVI3b2ZjbjZ3U21WOWpvN1pzYjBvNG53eVl3R0JzYWtDTXJIZWg2QjdzSHlGT1gyZ1Jfem1lamV2SGlXaWludElRbXVKV3dfZU5IYWJyOHdQcVc1Nk55T3hFOWpmQUZySmRNZFBhdl9TWnZaUEFEcFdlRlJWRlg5NV8xNWlOSE1IN3lyVkR5bkpocUdoSE9paXZlWkJ4MVA4eVdaUWtPelpSRUF1QlNfMUkxMEVDZFV1T0R4azEtQkk?oc=5)
+   - Source: Barchart.com
+   - Published: 2026-10-21 13:11 UTC
    - Keyword: Anthropic
 
-19. [VistaPrint Partners With Google Gemini to Bring Print to AI Conversations - Business Wire](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1FRdXJPVkF5Sl9ndWZBU1NqVDRSU3dxd21UcHpJSVZaMEl4TF9vaEc1TGRUZ252XzlIeGlrR05KTzVSWmdyQlNPeEQyaWtST3NSaERRZlB6Q0VRQ1cxSThkeHRCSWhsV1FPeUZFc2RSUzZwQ0RKTS1lMDU0cWUwZ01YNV8wMkRvanFDY3B2TzMwS1ZCWUxvMkEtLVNfY2kySUZxcVVJeEZDeG1hMloyNzdDNXlLRGRmZlpqcHpnM3paT29oX2ZoNF9R?oc=5)
-   - Source: Business Wire
-   - Published: 2026-10-20 13:00 UTC
-   - Keyword: Google Gemini
-
-20. [AI Agents Will Split Markets Between The Cheapest And The Best Fit - Forbes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmxtUnVDcF9zU2NlVkVzN1J0emdraHZGMUdaaVZDcy12aTZCQ2ppb2dXeHRVYmtLbDVXWXpmaGN1ZlZyT0VJcFV1Um1rRGZIVkg4Rk14WGNGdEhOTjg0VktXd3RBcGM4bHhMeFhId2lJanJGT0pyazVjLUdnWDlrbVcyOGI5c3QwbGdHMEY2V2x2SnZ4T1MzM3l1aGdZekxWdkd3UjB3b2RlMnhNTk9TQlJROUh0WjVGaEwzaVdR?oc=5)
-   - Source: Forbes
-   - Published: 2026-10-20 12:58 UTC
+10. [Nvidia's Huang urges Europe to go all in on AI - France 24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW1pMmxnbDZoNVVxVE1CR1Q5MFRnVGJvZGNfTDJsYnoxUW1HMHUyX01YRkltUGNlSmdEQ2RhLURrNVpmV1RBdW1QcmU4RGFJQmpPTDJleW10dDBNdkg5eVdfeXBlRW5MYzRxVjRuTnd5RjJ2WFZMQkVQQktFUDItMXdhOG84cVZEeEJlbjRkc0dqQXhZaWQtMw?oc=5)
+   - Source: France 24
+   - Published: 2026-10-21 13:09 UTC
    - Keyword: AI
 
-21. [Booz Allen warns frontier AI models can exploit OT pathways, manipulate controllers and move robotic equipment - Industrial Cyber](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHNUUER0YkJ3UDY0bEd6akpWSjF4Vy0xWVo1b0RoOGZsX2xaZlVKbnBySnJhZkxyN3pCWXVFUnpPeU9adHNPc3gxY3Z2Unc4XzhNUWp6WG40dllQc3Z1cHo1a1ZxVVJac0ItZ3l4aDZ1Ul9YS2kxUVozVkxOc1c5bVN5VDVfV3hBQXFMQUdSVE1Hc1JWRzROYnFTTEZvRlpzdng1LTJEOWoxNXh0RUpHNWstYWVtMUNYYTIxZnpLZVRuRktnNXY1NUJpNWN0YnplVmV5em9QTQ?oc=5)
-   - Source: Industrial Cyber
-   - Published: 2026-10-20 12:57 UTC
+11. [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform - OpenAI](https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5)
+   - Source: OpenAI
+   - Published: 2026-10-21 13:08 UTC
+   - Keyword: OpenAI
+
+12. [3 ways to get your data ready for AI - CIO](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzRabkVBOUNvZHh0OFpOaFlxZGNsbFAzMUVTWlhoREJTNXVkMnIyenZMazV3XzZZSTFhREg3U0lWNkZKc0ZzdE9QcGlLdnFwWDNxTzZDUGpqQUVnZmxVYnZfSVhlMHBLektNYVRULTlFaG1GVlUyQ2RMYl9Lbm52dEdMMA?oc=5)
+   - Source: CIO
+   - Published: 2026-10-21 13:07 UTC
    - Keyword: AI
 
-22. [Growing Out-Of-Home Ad Business Combines AI And Human Creativity - Forbes](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGowNU5QclplUHBXVEZlRHBYYlNfZmRrZ0wyTWozeUVkSmtxakVCVjBIakRzMWtwVjdoa3labVFhQlpobkVPaDV3V2JBYnZ1OGhsUld0al9XZk5iRks2MzJiY2Y0ZUh6VXBydjdZQ1dYd0dKVURBUmx1S1M4SjBTbjNXM29Cc194WE5QZllsTFE5NXM2M0syYlVzei1fUFVFY25DaWU1UzRPVFBjYVBQTk9UNm5meWRjcTZaNmJ3?oc=5)
-   - Source: Forbes
-   - Published: 2026-10-20 12:52 UTC
-   - Keyword: AI
-
-23. [AI’s Costs Are Arriving Before Its Benefits - Haver Analytics](https://news.google.com/rss/articles/CBMif0FVX3lxTFB0ZFFMbHpNdjdvSmp0ZFFYVVBzYk9ablBqYmQ1NWZGZHk5cE1jUlRtUVBkQjF2M29OSkc0ZFAxS2JMbmE1bG04alBRZjZCWm41SWhudHhTeHZwbU81ZWRDbnN0eURUSVZXcFhrWFM4RDdNQ2dRc29Cc1ZtS1c2d2c?oc=5)
-   - Source: Haver Analytics
-   - Published: 2026-10-20 12:47 UTC
-   - Keyword: AI
-
-24. [Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Globe and Mail](https://news.google.com/rss/articles/CBMijgJBVV95cUxPOF9zcWRJbVpWemIxMDVTM1hMbUtTUTBlZG16V2dpeG9RNk5obUVhLW5nTU93ZEd2QUMwWVFJV1JfYkoycWpJTmU3TWlfTlo5RzhuYzAyNTZDYU9JRTVWaEpYWWNYOEo1UDBLSk5MTFVNRWpzRGY5UWcxNG81dUpPTnpMeFNRMTFNY0tFb1U3aTdrenRDdmFTX1pfTFB1WXIwWkhXaWlzWGNJWElwc3EyZm5SU3hwZXMtdXJHeGlyTEFzUndGMUNvTllJTy1Tak5hcXVHNzZnS00zM2s1UXNqQ3RITzhKQlh2NENKZmttelROSUl6QmJ3OEM5c3IxcXlsWEc0X0ZHdC1JamZNVlE?oc=5)
-   - Source: The Globe and Mail
-   - Published: 2026-10-20 12:47 UTC
+13. [Nvidia's Huang urges Europe to go all in on AI - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUndFQzZZelBsdjNZSHJLVVlsUXptSXhOUFJ2MFBzM3pWdDltS2hYWnMwUnFwQl8yTkc2X2NyWmJUNjdLN25OdnZrM1hKUzQ4ak1aYno2T0VpUEZyM25pZWYwWngxX0JPYkhuSnNaeHNwRkdyOGxzQVJDYU1oUFVvVm5xRGE?oc=5)
+   - Source: Yahoo Finance UK
+   - Published: 2026-10-21 13:07 UTC
    - Keyword: artificial intelligence
 
-25. [OpenAI Is Racing to Raise $30 Billion Before Anthropic Goes Public - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnFpWXJDa3MxNkd3QmZYamo5YjRqN2huaDZCanA1VmQxVk1GanpoWDNGeEJHa2FRczl4c0FDNk1TMmxJOF9Nc3Q3d191REowc2xKWVJhajZTQVhrYWVOQzk5Y2NSQjRoZ0dLekxfSGNhOHhoVWNtTGh6U2xGaWFjWEsybDVCc2pRRV9ZT21QcWVxSnJvdEZUOVpn?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-10-20 12:45 UTC
-   - Keyword: OpenAI
-
-26. [OpenAI Is Racing to Raise $30 Billion Before Anthropic Goes Public - AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE40NmR5MVB2U3pvMkhzVkFnRHZpZnJYckpaMk45YTZiNGNlbGszVTRXS3lMWXA5a0toNFo2TWt6dldra1RBaU11eHREVEtQa1Y3WGx5NExmUnN6c1pWMWZmVEpfd2lwVHlnUnhuNW93aEEtUTdYVkhJejBaLU5jcGc?oc=5)
-   - Source: AOL.com
-   - Published: 2026-10-20 12:45 UTC
-   - Keyword: OpenAI
-
-27. [DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5)
-   - Source: Bloomberg.com
-   - Published: 2026-10-20 12:45 UTC
+14. [How AI Is Transforming Security Operations (For the Better) - Morphisec](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjVvOGNsM3dOdUFNUG9lT1VzWGpuWmJDZnFXVkxMM1JsVlQ5SDlEX2lpSnpjajlDbEZjeklKcWpCRG42Zm5HNkM5MzVVV1RqcmR5UXRxeVl6aC1HbjJXVW5nNEctTVJaQm1kSHBDaTNEU2htcDNPb0VpRkVrRHFoTmtDRE91UU9pcDM4eEE2M3J5SXM?oc=5)
+   - Source: Morphisec
+   - Published: 2026-10-21 13:05 UTC
    - Keyword: AI
 
-28. [OpenAI Is Racing to Raise $30 Billion Before Anthropic Goes Public - 24/7 Wall St.](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFlqVENGV01PVHJ0dTd0M1A0RE1pUFNUeE5nRnd4UEhocHRncUExYVozd2FVcWxLdnFZZGxVTGszb1NzT1pVUWp4T1cxZWJrb1V2M1JYNmVDbVlQNnBKUEQtUmVqX1R4SHhiVllVdlMtUlhpSEVwVHE1RkNEanV1WDBnYWl0R2hHWDhCRUhtcFBlam5PY2stQUxHMTFyc25TZHJIdGxiTlNUU3lncHc?oc=5)
-   - Source: 24/7 Wall St.
-   - Published: 2026-10-20 12:45 UTC
+15. [Anthropic's first-half net loss reached $80.7 billion, draft IPO filing shows - Quartz](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDcGx6eU5mMkhJN1Zrc1VfOVlmQjJabW5wY3F1U1dvWFREdm1CdHVzNVJXT3J6bHJNanhzNnFLcFRTcG5LbGRJMmRCSFZJVHF2cmVFQ0M1MWJ0STBWbmFDSDFuY0NJcUxnQmxOV1dYSDdxeGZS?oc=5)
+   - Source: Quartz
+   - Published: 2026-10-21 13:05 UTC
+   - Keyword: Anthropic
+
+16. [Gen AI policy is a White House priority, CDRH digital health leader says - MedTech Dive](https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1F3bmxxWFNUcUh2eXFBNjJCa2RRZ2VSVmJ5S0lPVE01NzNIOFU5VllDUnY2eUlJS1B6R0kwRTctVTE3OUhQcjlDQ19xZEdOaWZDTGJ1X2pzZ09vbkRRNXVubjh5UDkyZnNvOWx1aW1XXy1EeDZqOGhBNEp5c3diMTE2ZWppUXN2ODJkUHlxWlJxMmFhY2FyVnBzanJSNjU3WUt2bHB6bzdmejdQZ2RubHVR?oc=5)
+   - Source: MedTech Dive
+   - Published: 2026-10-21 13:03 UTC
+   - Keyword: AI
+
+17. [OpenAI Takes ChatGPT Ads To 89 Countries - Finimize](https://news.google.com/rss/articles/CBMieEFVX3lxTE9aZnlrUjktaWNJRmNSYXljM2RyT0tiUHhuVUQ0cVRvbVBpbmVMTUpZbGl1WTFjWmswanNGRjJUcERIUE5Bai1JanUzb0xFdGQ2bzFtTlZYUDhvSUVDZENjUkNLQXhzQS1MOWx3R1ZHZ0NiNkVaUDZrZw?oc=5)
+   - Source: Finimize
+   - Published: 2026-10-21 13:03 UTC
    - Keyword: OpenAI
 
-29. [Microsoft's Claim to Have Bested OpenAI's Model at One Fourth The Cost Intrigues Me Enough to Buy - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGdfX1ZQazZaQTNPWUxUa21pUDlDLXI4LUlDUEhaTWdMa3V4QVdkZkpqODNGTHBobHFOaXF2bHdyRTJtSlktV1dtbDNZd0JaN1lieHp5dEpiWG14b3o5bEVjbEpXSGpwNENCLUVPd2kyeml6dzF4anRCQWZNaXRNSXNuT1c3NUdvWkZZcDlxUzBVQ0pxUU0wS2hzbVZpWGFxa2ZBcmIxd3RrZ3VTVGhYZS1uODdfOHd5TGJZZlVPdVc0OUlDWXlpbWFRN0FDYmhDU0VmMTVB?oc=5)
-   - Source: 24/7 Wall St.
-   - Published: 2026-10-20 12:45 UTC
+18. [Most Americans give a thumbs down to AI and how Trump is handling it - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3J3MVVaTHZsMmxRYVpfTEZOcWZaV0dDUmwwdUVzX0pZeERJOVNPUGtmdW5BTlY2NE4wY1lVVENZemVFdWJ1MFdWcTZrSF9tWll3aUtvOEhFUW5EcUg2S0g3VzRWZmQxblhsSl9pSTdKMUlydmVDdm52cjAtcGZqM3VvY1hiQmpkUkRBdkZrS0VuRzE1Y0p5d0ZVTzh5Tkc0Z3BBYnhyVnBPYUl0Y2wtLW1n?oc=5)
+   - Source: The Washington Post
+   - Published: 2026-10-21 13:02 UTC
+   - Keyword: AI
+
+19. [Anthropic, music labels to make key arguments in AI training case - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3pZQUU3NTI4WFhrZkxldDBxUTRpT20za0J4X2JkYTUxdExnbFdaUEoyam5PWmFTa2xNWHpTTGZqdTl6SWhuOW4tcXMyNE9uOHNqcHlIRGhHendlM2JyYkJVRjE1RnNSUDhpVjFZNEY3Vy1kamtSVTJXaFdiWE1oYXlxS2Q1Ylg4NV9kNmhLMElBOTAxdXJVa0E1eEt6NUkxWU9UcTU1MGIyeDdBUy1jcXFvR04?oc=5)
+   - Source: Reuters
+   - Published: 2026-10-21 13:01 UTC
+   - Keyword: Anthropic
+
+20. [COMMENTARY: Five AI quirks and conundrums to watch this earnings season - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1B1bUZjZ09QOC1FaEFmZVZkMWpPT1ZINU5VVnl4RUZUc3VFWDE3UFFWeXNpZ3pBSEFwYVlObjJkd2dOVFgwbXVqSzVLb3ZHWVVBbERZX0V4ZWRNTTI4c19RUHFZbmdHMkt5QjJVVkptaXN4TDYzc2tFdjdqTU8wbnlQT1BsOVdwNnQ1aEE4YXFSa0FSZDRBS0NKZ2NURS1ON0dxUWZicDJSeWdaRXFPMmNhQVI3QzhlMW5SeWdR?oc=5)
+   - Source: Reuters
+   - Published: 2026-10-21 13:01 UTC
+   - Keyword: AI
+
+21. [Advocates seek state guardrails as seniors turn to AI companions - Arizona Capitol Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkJuRmFoMkFybE9HQmNhT3ZYa3ZzZDFRbnVuU3JNTGU5YjVpWXpLdFh1YjlHRDJQQXpnZzNNWjQ4SndSS1YyYy1LUGxId1FadXVrR2pwYzVGb3VSMHppUGFwdk5pS0tycHdTYms3N0ZKSFlkZDdqZTBmdEpkMkYyMVF5Z0NvU3kyY0NRWDNCSTBmMUJmZi1RNmt5WmRNb0RfWHoxbEpHYWk1QXhP?oc=5)
+   - Source: Arizona Capitol Times
+   - Published: 2026-10-21 13:01 UTC
+   - Keyword: artificial intelligence
+
+22. [The Best Cybersecurity Lies In Artificial Intelligence - Cybercrime Magazine](https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXVXY1FSX1p2UkZpQXJtcEFNcHk1Qi1HODl2dEk2dFU4WkJwSHdkMEFKQXBiTUNoY01VZkEwVGRISWhEN1RZOWtfRDhrdncwN0hKWmZXaDFWQjd3bC1hYlpyUHJTSk5sZGt5bElIZkRHaU5DZWYzdTBvMDhhTEQyNUVXd19jMHBES2IwRDQ2dGdKbFk?oc=5)
+   - Source: Cybercrime Magazine
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: artificial intelligence
+
+23. [Lumi AI finds new home at Newforma as agentic analytics gathers pace - AgFunderNews](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVZsc1g3RUtiVV9FRUczLTdkMGZJWDljWTJqZ1ZFU193cmtydDAtNTlCdlp4d1k3TVZCam5TNm8teVVSN1IxYmRaTjlBam1Uejl4TVEyVDczeGszRE96d1RTZjRTcm9lQzNTWXJwemc0SXlSd3dsaWVyYkVKU2lNWHlNME8xM3VsZS15ZG5YQllwY2RJ?oc=5)
+   - Source: AgFunderNews
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: AI
+
+24. [AI reveals how a warming climate will intensify NZ's most extreme downpours - Phys.org](https://news.google.com/rss/articles/CBMickFVX3lxTE5tVGd3LXcxSVlDT1B4SEpMX211YTBrWkwyRzZ2ZVpBREloZFAxVVBwN0hEd1hfSHVtOTBscG1QeFFDLXRHVTd0OHIzUVdSNnlFOHptbl96dWpydUJBYXk1UVZtVGt0Xzdiai1wejdqR0RHZw?oc=5)
+   - Source: Phys.org
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: AI
+
+25. [IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028 - Yahoo Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzgyUnA0QmtZY290R0xKeU85bTlrd0RvaFA2d2R2T0ZFZDVCdEtrb1pDcHpOLURNZXpxZHM4R1pfaUhndS1xQjhnTWhJTjMtRXFDalFtdllXdUVTYVJZZlhVeWF5SjhqdnQtWHFvRXJnNDFVUFdzc0I1ckxDSjVuZ01pVjd2eUpSUWNjeFc3UzBFS2s?oc=5)
+   - Source: Yahoo Finance
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: AI
+
+26. [OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zT2hqbHpJQWlRY2M5SElrcVpHc3BHM3dWdks0R0hhbWM4NFlmQkItUFhPUW9zSXhyaG1NWjNjV3U1eERDOGE2WVI0eF8zX0JjeURXR0NBTGlLbm1YZERsVkhsLWUtRm4xSl8tcHQ4NkFGWDZxN1hV0gF8QVVfeXFMTndoM0pabVhEX0Z2Xzc0aWI2QVZINmpJdEs3RjdqemVxUlNfVFJLczRhN0d1RTJZd19zTUN3dEc0R25OZXZvZmVnWDB5dkxtRHZhUVpyNEpfUVpNUUp5S0NCcGQ0MU9FQW1fTzJWYkdFZ3Z5VENGMXZtOVJfbQ?oc=5)
+   - Source: CNBC
+   - Published: 2026-10-21 13:00 UTC
    - Keyword: OpenAI
 
-30. ['Dirty Dancing' Sequel to Honor Patrick Swayze Without AI - TODAY.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlEtU3FEZ1FyYkZDUGNFZzZNLTJ3anpLbldnSXNBVnBvbHVZU3JIamlJbEZsMlZ3SVVqRVh0YXgweE1rRDMwWTlpa3dRS1FUd2lhTFpkM0I1TlBwZEphYnEtQzhZSnpPVll1RGRpMS1hRlVVOHBwemFOdk43d1M1RHlERWtONHVTMmpfSVI2Z1R0cnctOGFjZVln?oc=5)
-   - Source: TODAY.com
-   - Published: 2026-10-20 12:43 UTC
+27. [Mach9 raises $34M after pivoting to AI CAD software - TechCrunch](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWRRVThKdDYtVnViQTJtV3hFYmVyUmlENHBOcWE5UlJta0xHYzJVYXc3YmRlUUFrek1GNk8tNXFMeUJSQzlBY3pUSlBLTUc3U0x1WDhTU2dldVVGTGhkeEdYODVNcjNSUHREUS04RHVONTRzbnN2cGxQZ2ltREVDZm1BaGp4LVhJa2FydlB3?oc=5)
+   - Source: TechCrunch
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: AI
+
+28. [Epic to launch app connector for AI agents - Modern Healthcare](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGY3YlJLSWhtMTdMWERoTmZla0l2Ti1reFdTLWNCTlNZVHRlNUFydkI2Um1MM3VjNVVoSHRnTnM1cXdwU25jRHlER09yLU45RUZISmlDenpVVVlxUU0wTG1YNW94a1podTQ4QUdlQy0wMGFSSVVURWVXSUZtZlk0WURDN1dBbURhdXQxVzlheG0?oc=5)
+   - Source: Modern Healthcare
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: AI
+
+29. [AI is changing how students learn to write — and think - The San Francisco Standard](https://news.google.com/rss/articles/CBMifkFVX3lxTE9yeFpzaFVWWVN2emF3YkY1YnZMT0ZQQkVPTkNWR2lLbHlPWmdTMjB1QU1ISGx1cnF1akZVREs4WUg0RmZ2aDA5ZUhsOWxRVDN2YmFNS21kanRfTnNNZlRHVzdVYm5aX3EwbWgyQjR4VkNBdll6VzBJNEotQTgwZw?oc=5)
+   - Source: The San Francisco Standard
+   - Published: 2026-10-21 13:00 UTC
+   - Keyword: AI
+
+30. [AI in propane safety regulatory intelligence - LP Gas Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0ZiY0FnLVR0LVQ3SHZsSTY5dlhuZDVlb0VJeWJJTlBKaWcxYktDNWlrMGMtZ1hhakJmSjZOQTFJcU13UU5BeUNCNW1ycVhhbkdseG9PUEZvc1QwbGpiWVBuSFBKZ0hLd3l6YUVxN2dwOXNkbHVfcGd1RkRqc2pZcg?oc=5)
+   - Source: LP Gas Magazine
+   - Published: 2026-10-21 13:00 UTC
    - Keyword: AI
