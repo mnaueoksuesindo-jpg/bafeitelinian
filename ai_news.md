@@ -1,155 +1,155 @@
 # AI News Digest
 
-Updated: 2026-10-26 14:53 UTC
+Updated: 2026-10-27 14:03 UTC
 
 This file is generated automatically by GitHub Actions.
 
-1. [AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - Audacy](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjMzWHJqNWt5dFdWa3VsQUVfdEE0Slh4ZmxETXhyZE9BdldFY18tLVF5TnNGRkFjUFlySlZfNE1yM2J5Ui1Pa3hiMmVLSmdlYktCSnF2TVoyZkY2UFRvN0draHhBU1JnYlNabWN6S19fd2VWTzBlVWhKY0I3OGJmTTFQcW9WdTl4UXNLVHcwS1RGUndqSEphX2ZXQnNKeUZkb01BTzFlOGlqeC0zTElXUXRjbUx4eVlOcURydkdDQXRzUTlJdEw2dWRZam1oVTg?oc=5)
-   - Source: Audacy
-   - Published: 2026-10-26 14:52 UTC
+1. [‍‍‍Top AI Sex Bots & Alternatives 2026 {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPd0xNZWFwWXVWemZtSEU5YjNXM0FfWlFWQmFpZGlvTE93SG0wQXhiUG5La2NJTXV5WXhNcktrMGpnWkYtUjZST3BRUHlVb0ZqNm5Oa3JpNEM4ZlBUMFo4ckRTWWZORG8wV0FxcmQxdzZSOEpkRzRFVmlmeURGVWlRMEhuUU1nbXlWTzBpMlNsaUR6MkRmdzlIT3k1bmdzbWlDTnI4VVUzZkZ6SkxyZF9ELXZwQ1hFTzRGYkMxbHpBTVdhT1JKdXVZOXBaQk43aUZJVzFSbXgxcmZUSE9sR1QtWE81dm1qUEUzblJzTVcyMjhSeEc0M0VQbEswNm5kMHdudU51ZjZSeExYM3BGQ1Q1Z0hYRnZvYi1aSlZueWxHcGVNTjhSLTFRV2lXbjhrNF9TZnVhenNtdHVnUXdxR3Zpejg3VWszSkkxWC1CTDdTUjdvMlZKRjlJ?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:03 UTC
+   - Keyword: AI
+
+2. [‍‍‍Top AI Adult Platforms: Inference Speed, Features {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNNVJuRDFHOFNuTHFXSDR1RDNZSENQQ1NzWVFwS0hCTlkyQUVNTmRCQUpOVnRpR2UzUnZvSWZEeEhOLTN0ZVRVT0NITjBjTy1aa0YyTk9Fd1VxMk81MWowbDRiUkV3UFRUZ3BnSzROWHYxZHJqQUVfWFBYbVFrYmRsY19tZUlUS2l4UGwyYlB4ekRvZUl0bDhYTjVmclhfNWRMVGhpel9uajJKQWg1VkZOWG9pVW5yYXdGanZHdmhkc2xnTmtKb2VvdE1kOHdMYUxseEM0aWtxZ0VRek9mbUdQTGNEYVc4Mi1JWjhvY1BMSzNJSkdvbmJyeTZJMktiVDJlMEFiVFkxZFotbFFReFZjWExhWFNvcDIzU25fbEY1S3prejh2WEJZVzEybC1aZ0hlMlBMbmh6cEN3SW8tMVJCTVZvS3luZWdzQ2h3OFcxcnNuUk5DNHZockhoZ1MzMmItaHQzYzZncm0?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+3. [‍‍‍Top AI NSFW Tools & Platform Alternatives 2026 {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNYVppdXBDVU9fVjR1ZTNkbzFsRnNIa0loZjB3QmFUTUhkNFB0dzM1UC0ycVlkSGtvaHZMOG9SbldZc082YnZ1YjhnR2tVakJDazhaTDRxTjFRa01OM3d3SGV4TlFpamMzaW92Q1VKVHFleHpqU2k4dzRqMlVJVHlhdUlITkczek9ielFEdDFvVTcwNGFUaDFVMkhpOVBMNjhaSXhHNHZaMTc0YVYyUmN6Nms2dzViWW9PNUNET0VLakV5aWJaY0g5WWZtM3l4cnNLRzVhT2dGbmNCSHdNellzY2J0Z2FxZmxicWRXM0c2azVmUGVtZVloQ203XzZHUWc2SUxuanF6NmVQbm43R1BBYmgwWTlzMmZuQkpGTThUUk5iNVBkZHdMWDlmVkhYaTA4QUdObVFQcFJBYmNTQUdheHlua3JPc2g5Z0pBT2dudGFMa1lhWE04bDIwdHRxX2llbHpoUjhB?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+4. [‍‍‍DeepNude AI Top editors and generators ranked {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPUzRocUducFA5N0JNUmRYQzRmWE8xY2tsdXZhdnk2QkkzUDNKUTdzbGJYcWtZMGVDWGdrSEhJcDZGamJQaldHeEo3YldDbFFWLWJFTG5GVnlEbUcwUnVXSk40aDZwTUZlYjdtQ0FLY09OenRiLTVhWG95YVNQMUotaFBWX0o4UVdkNWlsS0RzSW9YU1lzZlI5NnZZT2phZzliQkt0VzdrZkplOUVqVEJrMV9BRTl0SnJFdzdPY0k3QVMzZExKNEpNNC1OUFVfdnpIMm1wZFk5UnlxQWRqX0xCUDNNMVNMOGV6dUx6UmVsU3hIU2ZGVUpLamN0bHhzMmpzWm5nYncwVDF0RlNFRHE0NzRObGVCaDV2bzQ2ci1LOTQxVXpGUFV2Mk5URGI1dkVtbW9jZ3otYTc4U0ZuLU1VeUY4SjJFcTZYQkMzcDgzcDhGcWR5TTZocHpoM3hEUDZaUzFlLW5B?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+5. [‍‍‍Venus Chub Ai Free Premium Account AI Girlfriend Chat {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNbjVzU2RJLVg1dEsyVm9kQ1hGeHlBNXlkMkpRLTlKTklIdUt4NjBjeVh3alQxNERqdnBJSlE1cFdlaVBtY2xVQVlpVkNubVNQRUNLMS02eGEzVC1LX2w5dWkwY2dhLTBGUjNLRHM3RlYxQll5aC03R2dvTE82cE5zWnExQkdObGptZlY1OTU2NGpiRnJCNkJvU0dFQ05JakRTMkxKNklHeVhzd2hfelhNUDhkelJraXllUlEyeFdTQ2RIUzU0dnJFQjFYTTdsZEttR1drOV9VS2JsZVBGZFFCczVDV3A1YTlXZjI0V2V4LXBjMTljRDRFbHZmdzNwWmlaTXFRVl9RQUtjbW5XblBQQ0g5cEFhOFlWMzZ2cDFHMkVKWW5IRHFTeXNZNXRJYWhLbkliVnNwX1QzbEFlN0pHOFA5aVlNMlNvZzNVOXRRa0dWOXRFaDU0OGlPamZhNVpGZ0hUOWpsWTZoc201cGZrbg?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+6. [‍‍‍Top AI XXX Platforms: Image Editing, Selective {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOQXNwa21INlc2SlVVSmNBVVBoTUpKdWZsZVQzakV0ejdEbXlDbUEzZlVoX2t6SE9pUWxxOTlIVXVoSS1XTThsYlY4MVpRczlDU3ZSd1l4R2dFcDBFN25NNzRQeDFJYkJzR2pvRURrRi1hM0M0NGNwelFZd2w3d0dCeDNMUUFpUjJnUUdhTlN2Qk1qZF90Zi1CRlZ0c3RMQ0VLWENuVnNPTDZIcXo1REREckk4bDZ3aTNzZHNueTdwUE5OcjZ3b1FiOEJOUV93LW43bml5aGhKSFE2SFI3LTZwQy1oOE1kZE9FX3NfdFRqdkU4ZjZTR2Y3UTM0TzI0MnQ1Y2xBSDZ1QmxXMXNKM2YwVWFja1ZfVmpTTi1HcEE1aFVhNlhJQWVxZi1iZEFmNUpMNjRBbDNNWjlxZEh2MEJVazdVVmp5Wkc4aDdfai1GRWFKZmhfa2gzblkyaEZQdm94NUxFMQ?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+7. [‍‍‍Best AI Sex Platforms for Chat, Images & Emerging Video {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOb3AwR0JLeHFaaFdudC11a2NXZmhBN0t2WE1iVmJpa0ZMNHM0RFc3ZzlnQVJ1cGhTaWtTcnBrQUJLbks2ZzU3a0dRSDBGckE3dmplSGhnM280U1lEa044QU1UXzNfcVlPakR1Q1ZVR18tbFBoNnNRYXZXaHRmamhRNk9HMXpnaUN3S1pXTm5xQVhKcWltR2d0bGdvQTBNYUZWX0pnYThtenJQdkduSEdMRW96a0o4ZW4yTE5jYTQ1LW5JVXhGbDhwRzN2ajUwYkREX3RVWHJHdV9wZndsb0dVUHFEQzBQRjZYaER2TnNramNzYk5hOE0tdWtUVGU3ZzdRXy1DeE85SWRMNS10UnNFcUJGcVB0M3VVbXVSQ0tBZ19qcHNtVFRDMU1jeTQ2NnNjVkg3X1BkaWp0ejlPazQ1YllnMlpYTkRvM1ZGTlNfdFdycmVtc2xHTXRUS3RMRWthLXJremM3NG1yTUphRzF6cw?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+8. [‍‍‍Top Free Adult AI Tools for Creating {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNbjR2dllZbWNBbm1Yalh0SWFIdDlhcG00bENQNHhSY2N0cEN2Tmx1X0dfQXVrVkZza1pIRWh4MmVGQ2d5YVhrZTd2V2M5R0JFX01zVU0tYktNdGxwUmFfU2RJc3prY1dSRUx0SlVMeUFBcXI0S3psWUxkZGV6bjB4S2RpZVdNY25mVDVReTBQSmI3di1IcXhSc0JzN0VocG5JQzhNSG9GZDltVnZRUnFJdU5tNDlWNndiNjZDZlp0N2hrXzl6cWstOVNNUE1nZDhRRVI4bEgzb1hRNWFuajdIQUtoc1RnS3REWllMT0RBZzZOS3VpVFkzUUZuaWtFb2lVamRVakg0dGFHU0N6dVRPcE10M1VoS3VIZ2Q3Vnc4V3NiX1JXdS1YOEljNlhvcElEMVdyLU0wTHJlOVBZQno5UVJobTRCbDI5UFB6bXZzTS1ZeS1PSkI2d2Zn?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+9. [‍‍‍How to Use AI Adult Image Generators 2026 {us66RT} - NYC Health + Hospitals](https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYzBJT0RxVVJUVU5QRC1iVmE2VDdCQlY2SmZqVkwzR2JkVGVBeUtTRjY5Rm94bDg3bjVvajFEWWFMRzdRU3dKYlRBbEZ0VlRwT2Z2YnYtNkFUbUttUVltV0pqSHVzWHRPblJuQUVjZUdaSXNnZVRKU1MyXy1xbEFFTlh3a09SYmc4NVlfZXRuZlZBU3BnMmlwRGhCTzJsRTVIZ3gzT0tvV3gyZklVcGxGRkN2b2hReXd1WGtYMlcwYkNYckxkVUsyajVNVDdDU2lwd1BwanVCWHNFYVNKeFdkcjZ3dW85Y3dkSmlNSEFVbGZTSEZoRjRkVWt6UVVEclNPZW42MHZ4Z2pXOW1YT2cxV0I1dlRiZHM1cF9XdFhUWmhteXhFZ2E4QUlBZmZKTWtOXy1FM0VNQ1RQTzNFbXo2aUlJZk1oblo3bjVuMHV3S1d5LVpCbEhUeVJ4bDFSZ0Vy?oc=5)
+   - Source: NYC Health + Hospitals
+   - Published: 2026-10-27 14:02 UTC
+   - Keyword: AI
+
+10. [Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations - IAPP](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHVRb19STUtSd0hqZW9VSnhqam1FQVFmQnp6aDFFY1V5RF9LRHcwb29LcEtFcDB2d1BKelRqbHJmMi0zOGRqQ1dvMlJwdElDM2YzcWhMbXpGMU03MDREdE5PSmFlSHpQcUxiVkNPQ3hSTG5VSGwySS1FYmJBeDJjakIydWMxLWNJZXFYM3gwQUVhbWtKX3BGYUtZdVZMQ1plMGN0UjVkNTdwY1VqSkVnZlh4OThnLXlmUGpR?oc=5)
+   - Source: IAPP
+   - Published: 2026-10-27 14:01 UTC
+   - Keyword: AI
+
+11. [Crowdsourced collaborations: Using AI, social media to find potential brand partners - Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxORXFPN0hmbzk4NElfbGp6U3NwUUlmZXk0bDVtNEowb0d3cXJyN2F1cncyS2VuYnNBMkdtOWlLNGhwVGtBbG9kVTJEUU9nOU9SZjFoLVQ4bUE2Q2NWdHJndVljYm1LdFp1WHpLMXJiSWllQ3I2X0R1VTNIZEVvUFczM19oTm8?oc=5)
+   - Source: Phys.org
+   - Published: 2026-10-27 14:00 UTC
+   - Keyword: AI
+
+12. [Generative Artificial Intelligence (AI) In Design Market Growth Accelerates As Industry Expected To Reach $4.6 Billion - EIN News](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNnZfRVFMWlZrNE9adXBaVnQzNUoyMWVQY2pjemduVHpiR2tJRVZieGo2SEc4WDhJdWFYVTAzVUxrTFI0NTRudGtITk1UTnNGdnVzc1dIRTdyVml6UlhYNFZKQXBIYS1Ebmg3Y0FrZXVxTVRZSjVpZjBHRVUwN0w3UHRxRDdmM0lTeFBNMWFhaVRjSGxrc0kwRDNKTkFWQ01NWlRhN1RWRlpXQnctcTBuMl9sWmJLTEZhNzlhOU4zaWhuTVhQNkF3ejMzV2cxSVZoNGdYcGp6bm5SN1FuQkpZbjN4a21IbkJFQmNiU05B?oc=5)
+   - Source: EIN News
+   - Published: 2026-10-27 14:00 UTC
    - Keyword: artificial intelligence
 
-2. [Google Cleaned Up the Gemini Android App to Make Navigating Chats Effortless - Android Headlines](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWxwUVY3eWtnaURlQVdodnBGZ0FOclNBak1XZnJ2d1hpS1Vkc25wWjZOQVpvRUstNjB5TVYydFpoTllnVzhKeHFpWGNnV09MZE5SUFlKSGVjV0ZEWmRIMUo4SkVrUzhsZXJ2MnhtMjJ2X2Vyb2NiT2t2d2RwdjVmWWpVaUJvMjg?oc=5)
-   - Source: Android Headlines
-   - Published: 2026-10-26 14:51 UTC
+13. [Holding down AI costs emerges as next key step for asset management’s technology revolution - Pensions & Investments](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY29kVGF5NktzTGtRRVRCVl9LZEdvTE5kYS1QUThwWTNseDNoOUxYU2ZUNTNCbmVhbFpCZTBtc0hZQ0N3aVF1M2tzRGtZQ0l2Skk4Xzl5Tk5fOGVfNEtJVWZNMWNuQUZFbWdQRlpEbmdCRGJNOHBIS21scUxSbGR5MjdUdHRRWFdHZ3owQ2lyVVQ?oc=5)
+   - Source: Pensions & Investments
+   - Published: 2026-10-27 13:57 UTC
+   - Keyword: AI
+
+14. [Apple rolls out iOS 27.2 with new Siri AI languages and security fixes - TechCrunch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWthVXBaTlJqVVNuZk9XRHNqaDNOSDNZVXZraUh4UlRNamhrY3d5Tk9HcVVNRUo4YlI4TGNrVjV0cGNGazZzcUlYbzAtTmFZdlRTVldCVC0tMklzTk96bHNDV3otNVhyOVRTWml2ejBabFRBR3Naa2VCQkNfc2k2VXo2TFllZGRENmxWSGljYlRoNjY2Z3R6ZFJXN0RidEJaQlJKUDZWUzQ?oc=5)
+   - Source: TechCrunch
+   - Published: 2026-10-27 13:54 UTC
+   - Keyword: AI
+
+15. [Hyphenate Raises $45 Million for Finance-Focused AI Agents - PYMNTS.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5)
+   - Source: PYMNTS.com
+   - Published: 2026-10-27 13:54 UTC
+   - Keyword: artificial intelligence
+
+16. [Police reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious' — rights group report warns AI surveillance systems will sweep in more innocent people than wrongdoers - Tom's Hardware](https://news.google.com/rss/articles/CBMigwNBVV95cUxPVldPTTcwWW80UjJoanJKNUlldURyR3lTUHA4cmVqZGtRZjVLY081YVZXaldFM0RkTEpObVRGSk1MMnJIN05VZkdxZ1JZcm5KWC15OXhhZ0RLWWF2OWxnR2ZMWl9QZ1FlYlNwb016MVpya0xHODVnejk1d0NwUUpxdjZ3V3RGdjVsYUJkd2pXRG9hNXBHVTNTRmpqcjFIQWUwWHZSN1E5WWNEc1VjU3hrNUpkOUtpbXd3QTI0RDZqcVdmYmhMZ0psUGZTZldEUUFaVnpHeGczZHM5a0JUU01UM1hDNjF5dXo5YUQxdmppTkNoM3M1RmFNNHEtR1V0OTNCYVJpdFg0cTZWVDJEVmxXWEc0bWR3SlZ3ZWlib2F0N2hsREJoNTVGdzFpTlFQbDdxYmZjbWQxa1RyLWRMNzcyVDQyMG5hUW0xb2FObmEtWHRWOHJfQk9SV3BHVG4zMG54aWtIRVdiX0pxNjlvQ0ZwZFRON2JveXFYc3gyUm5RLXpiQkk?oc=5)
+   - Source: Tom's Hardware
+   - Published: 2026-10-27 13:53 UTC
+   - Keyword: artificial intelligence
+
+17. [Why investors should stay long on AI stocks, according to Trivariate's Adam Parker - CNBC](https://news.google.com/rss/articles/CBMidEFVX3lxTE5IRWw3OXdmRk5mRTVRZ216S3BqbS1vYzNLRXljbXE0MkNZWUNlOUxxaFp1dGhqMC1XY0dscnRqeEVmMVNEdWZsWlNrcjFfQTlxMXhyYy1qTkFjbFEtZmtnVVVROThuQTdDbG1VdnpmLXItOTJf?oc=5)
+   - Source: CNBC
+   - Published: 2026-10-27 13:53 UTC
+   - Keyword: AI
+
+18. [Chinese markets lose trillions as race for AI supremacy with US takes its toll - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzM2ekpCRDItOWdneU1qVVdIMlpNeVJLLWpUZDYtc2FPclJCM0JLTEVGc2JGS0NDbFpldXlaZlBFclJwTnFfSmFQUU0tLWRXaFI1NlFXRW1Bd1ZkbkwxdHQzcDJQOTIzOVFOZzFXLTNXVWI1T1pRd0hrQVRFdVplV3ZGb2xrYW84SXN2cUM1eWVXZEdPQVZN?oc=5)
+   - Source: The Guardian
+   - Published: 2026-10-27 13:51 UTC
+   - Keyword: AI
+
+19. [Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3B6ZTl2YngycEZ2VU5pQmhuOC1TVmdrajNIVHNGdlJKQmQxd3QtMy0tdGdHM0FVRk5LV0c0UzZxbkZPZldtckJXSXgwVl9RY1NEd3B0TFZrVU9QMTZlOVdGRVhPV0pEWkZKMkVMOGxfRElZczdCbmxLV1lRT05sOHk4d1NNUmxQcjgzWXNXTXh5dzh4ZEtzWGVGYlhUNmRkaTZ5bjNGeVZvSC1LSS1lOTg1RjV0VGVPTUNKS2pzVUc?oc=5)
+   - Source: Reuters
+   - Published: 2026-10-27 13:44 UTC
+   - Keyword: AI
+
+20. [Google Cloud and NASA: Testing robotic systems for deep space missions - Google Cloud](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMk9nanIxWU13NU9INllOS0Q3cjl5b1IyM2NDX3U0TXZtaXJPSVgwVjhTWHJBZEttUlhYTjhWaEhaeVNKTnM3LUxudWFSYmlxeFN5MG5nV21oNTF0ZFdHclJBczJsMDEyZ3JtVm9NUUlCYjhGd1A1amh3Y1I2Rm04bTl4bGVxUW9fMmRRM2I1VjRGTUNIdDltRFgwbWxUQkNpN0xTOTRLTkJRLXh2NDZBTjJoMmkwWHZJbkw5bQ?oc=5)
+   - Source: Google Cloud
+   - Published: 2026-10-27 13:44 UTC
    - Keyword: Google Gemini
 
-3. [Anthropic Just Filed for a Historic IPO, Revealing an $80 Billion Loss in the First Half of the Year - Inc.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0V1b0g4d1lsWm5VcS0yNEtxZkgwOWc3bDNsRktqT1U4ZHNtZVJhMkZ1WFA4ZW1IU01zWTBlVExycWhfdW1WeVN6bnZQTUlRNGlSYjNPNGNlSGdZQ2JTNmxQa1hQOFF0SVRyMWtZWlZ1RERfNm9SU0NtRUxaOU8yTUZjaTZLdjNUUjhnczdUU1gtV2hKejRKUVBlMi1kYmt4S0VaRUVyMWhZempESUxLcDA0bjNOQmVXWWdmOUJ6NkdUbVMyZ2ExZTNNaWp3RlJ3UUlSNmJHOA?oc=5)
-   - Source: Inc.com
-   - Published: 2026-10-26 14:48 UTC
-   - Keyword: Anthropic
+21. [Apple Creator Studio gets powerful new AI features using OpenAI models - 9to5Mac](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHpWc1VNTjUxQzFTcVpud0NhOWp0N194Z29OdFlhYnB3OHhNV3FPV2xpbl90NmdQcENWdXIyT0p0MjZJOWxORklDa0llS2xoN1ZfcUVfUDIzSU5TSmFYQkdTSXdfaXpTS3J5OG5zbTUzVWNvZ1dsemZLX3Ixc3dZeVpzcjNXc2dxRkliakFlN1RVNzJfMjFGZm5RNnNVZzQxMmo3Mw?oc=5)
+   - Source: 9to5Mac
+   - Published: 2026-10-27 13:39 UTC
+   - Keyword: OpenAI
 
-4. [Two stock picks to capitalize on Wall Street’s misguided AI fears - MarketWatch](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0ZvcFNOUUpHNVYzM29ZZ2JHQS0wbnlpNUY5SjBEbjAwMTJ5ZFlWMEMySVRkb3g4ZHhVdlhBa2tfbXhUZnhJMXViVDNYRnlaamRIQmk0NjJrLUY0Tm9WbnJjSXlJc3lEQkdLbXpNTHczTkhNV2MyVDB0R1RlSnh5VHh0bXUtUk15X0JiWGtHOVhzVzVwelNERDZBT3ozMkx5UnVIVk5mMHFiZWs?oc=5)
-   - Source: MarketWatch
-   - Published: 2026-10-26 14:47 UTC
-   - Keyword: AI
+22. [Google is removing Gemini Pro from AI Plus subscriptions - Online Tech Tips](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGluVDdSb2dERHZyeTBCSGZzMm1pR1FIX2N0RTZOR1BZYVcwek43eFR1NG1WOWNDVzJjQVF0aDVTZ2FhS2R4TEJyUlFtdmhPYlI0MGZ3TkhWZXZDVTBMX3ZobmxXWDVQcVdfN01jZHJ0ZzQ4YkRYVFFnNVRaOHNUTHVBRDRDUGhVQW9rNUNvQQ?oc=5)
+   - Source: Online Tech Tips
+   - Published: 2026-10-27 13:36 UTC
+   - Keyword: Google Gemini
 
-5. [Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss - PYMNTS.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWm55YkJsNGtiMGkyX1pSVVp2WkVUb3I2bVFtMVNMUWpWaVFpY3Jwam9uLUotSjEtSkktd3p5enE2QjE5cjh3SlVIa2FlNHg1My05alFfRWpXMDdUbmxwRXEyMFZsZFJkalJBWkpaNkIyN08tNjFsX2RaQnljeGlpWXZlNkZtMl9KTDVtV2xBbFN4NXlIOVBQQ0FXZTAzaTZtQ3JnbXd6YldwMG1nLTNBaW9SWGR4RFl2cXVTZTg4T3dkVXA2OFB1bTF1R0gwM1JSVnA4YWpOQlB0dw?oc=5)
-   - Source: PYMNTS.com
-   - Published: 2026-10-26 14:44 UTC
-   - Keyword: Anthropic
-
-6. [Anthropic files for blockbuster IPO that could value AI giant at $2 trillion - New York Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlY3WFlwVUJzcTYtaHZJeWd0cXBTaU5sWWdoUDVNUl9IS0pBLWtocl9ZU3V4TnFxaE9zT1VxQnhKczMwbHNpY2tXQ3lURG81X2ZETGxJbU8tS2kwZktFUmR5eVF1T3dzNXNhZDhCcnF6OWF4ZTlaT0JlNlpCV2w4RmV5Q01WUXlNcFBfazhKM1AxaFFiVEUtb1ZBSC0wcnVLQkVyc2RTejdQaHlYdkpEOU84TWwyZw?oc=5)
-   - Source: New York Post
-   - Published: 2026-10-26 14:44 UTC
-   - Keyword: Anthropic
-
-7. [Anthropic IPO reminds this former Amazon board member of Jeff Bezos's AWS bet - Yahoo Finance](https://news.google.com/rss/articles/CBMixwFBVV95cUxPb200Y1o4WDRyTDUyUXAwZUpNLVZYdVhPUGktTjBRQXlLZEhfak5BY3FJRmlYcFZXM0diNGVLbmp0S29sbUY2cUQ4MXIzeG1MZ0NDWGF6Y3A0ejhnQUNxUmc3QjFaNjl0WW1fMGQ4RS1FelcwZE4xRlNWS05hOWk1RDRIeUZtajJ4NzhhempqaVpIUDR5Wk9vWUtiSGcxNC1FckdDR2RjdWlDVGRuOEs1TGd6VVprVnBQbDcyTXlVUWVKdUswelZJ?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-10-26 14:44 UTC
-   - Keyword: Anthropic
-
-8. [Anthropic warns investors of political risks as it prepares to go public - Politico](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmdVZ21uMHVfcm5sbTlKRi12aVE5bk1SMG5ieGdla0lBT2xuMUxUZDBFd2JfNlR3cXRfYnd4SE9xdURUc2RMUXVWY3duMkxaZHZzQU9Cc01CeW9WTW5EVWxKeVVVMEdMZXZ4UFJDaDVVblJ2WXdXdEhmYUduVU1xaTdldXp4N3BTMUJnVmdzY0NVX0V2MkhXOExB?oc=5)
-   - Source: Politico
-   - Published: 2026-10-26 14:43 UTC
-   - Keyword: Anthropic
-
-9. [Microsoft in focus as BNP sees continued Azure growth, Copilot adding to sales (MSFT:NASDAQ) - Seeking Alpha](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJmeDBzTWRmTkVPc0l1d2pCNWw4aFpaS1o3REhTX1Rtc1pnaGx4bVlWZzhfSzlMRHdLam9EUWlYakhObUFlX1R6LWJHMXVKV25TZVgzSGFfbUI1blhITzBvcVJwdHJqTDgzWGVOWEVlbXFKV0lmbjZQalk2ajZVb1otVWNpNXEzSV9IenFFb3E2VGdQOW5xUkxPNE1oVWE4OWlGYnQzMnhLbkZKa053M0hYUjdFZw?oc=5)
-   - Source: Seeking Alpha
-   - Published: 2026-10-26 14:42 UTC
-   - Keyword: Microsoft Copilot
-
-10. [Anthropic files for IPO that could be biggest of all time - San Francisco Business Times - The Business Journals](https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3dKa21kQTJQaWdNUWdlZ0hjd1pScHZ5N1dMVmxXMHRxUVMzNURlbkJHSDZielEzMjFra3ppOWhpOVk2WlM0azZ4eXNEZEw3VkNhYW5wWUZwNkV0VHp4SGdwbElmMlhHUlRwT3lCeUhWUzJ0WlNBSkFDTlg1X1N0N2JfRjJmcHdXVE93X0c2SmtWREdpRkc3ZjZQYzY?oc=5)
-   - Source: The Business Journals
-   - Published: 2026-10-26 14:39 UTC
-   - Keyword: Anthropic
-
-11. [AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - Audacy](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUV1R2I5c2xGekFhWGtJbHVLVm5pRjF4VkNkWExuZmNDbTRCbk5YTFY5RThBZ1FFRUl2QTVCRVFNSjBUamYyYjlhZzI1SHB6TEhxWUhoRVFoVXIzcjlQck5qVEhINnh0OV8xYkJsWW81RTJfcV9meE5KQjdFNm1DUXB4OFpMMXFXOEdFSTBFeDNPdzQ2MG1LZjc5Rm5MRGlwVVJNSGc3THJCVVNkM1ZEeW50VkFpX2lZSlNQb2RuaENEQzJvRjYyb3pxdkcteHc?oc=5)
-   - Source: Audacy
-   - Published: 2026-10-26 14:38 UTC
-   - Keyword: AI
-
-12. [Owners of Elvis Presley music rights sue Anthropic for copyright violations - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVmhNa2tsSmhYbXlPTGh2Tk5mMHJoUXZ3Y0ZhYlNpVV9CMk9OWGQ0V01wODRfTTBPaHdpQXVqNlpWNGR1QzRYbHJhdlp3a0phSlZXU19SMnd3eFE?oc=5)
-   - Source: BBC
-   - Published: 2026-10-26 14:37 UTC
-   - Keyword: Anthropic
-
-13. [Anthropic officially files for its public debut - TechCrunch](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkJha0pkMW9JazJKVUdhUWFfSDhYYlo1a2FESVdmOS1fajRzUDRreUMyMkNWXzM1QWZiS2I1d3NlMjhVdGdPUFl4NWdEMDNoUm9vcV9YblFOdHRNd21ZM3FSbU5UUDVNcXhZaGptUUIzMDhtUXpnazc0d3VQYkJ4YjBWa1lkU1NNZ0E?oc=5)
-   - Source: TechCrunch
-   - Published: 2026-10-26 14:35 UTC
-   - Keyword: Anthropic
-
-14. [5 unexpected risk factors Anthropic is worried about - Yahoo Finance](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEpIaE1pSGdsa3VRVWQwTjl2NE5HSE9Kb2pDUUctY05lLUdyVk00cEIxTklwOWczZWw2OG80WndBbUo1MUowMjJMUDV5Yk5ZT1JWbHU5QmRGU3daZXNxTjRqOG1DVlYwcmpGWER6RXFsbG9uRjRZbXpwOGFic3hZZ3NNX0VhcUM2XzNMdGlhSU13TDBuMzI5TkY2XzY3QUZZbXpLRzQzTGlzN2hJMk9rOEF3?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-10-26 14:35 UTC
-   - Keyword: Anthropic
-
-15. [Opinion | The AI race has a cybersecurity problem no one can ignore - The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWFiR3pEUFJ2dHA5cndfVUNmTkZoNWNrSlFlXzNsSVhwLWRna2ZiMVI2MXpOdktUVFpNREVXZWRiTUdKNU5fWjhES2VyTFBrWlJTREFwYU1MVDlqeXVFSmxxTXc4R19rRlA3ZV91NnlJVTNzZ1B3aERQWWc1MnU4eFpKRnJPQUZ2MmlsV0h0UVJnbUFMbnRhY3NoYzVYOWhMOF9pZEJB?oc=5)
-   - Source: The Washington Post
-   - Published: 2026-10-26 14:34 UTC
-   - Keyword: AI
-
-16. [Anthropic reveals $80 billion loss, huge spending spree ahead of IPO - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtWbG0yMEZxRVdUU19lZmdvNkZCZ0M5eEFKbE9uUVBOaFVDWGdtNkgzbzRxb1FIcE9TRi1FR2dqTl9IUTEtMnVPRjV1QmtrdTlJSk83YWdrX2JnU0h2R1ZnVDBGTERnY3ZyZ29lX21uSDlFcnY2OUpoUEt2ZFJULU9hQ1dnY1hzWTRvblVrS1ByRFZ6WDdCRUVQZU9idnkyYUdETWdGbnlldHdraFkteWdsR0JfdmRGd3c?oc=5)
-   - Source: NBC News
-   - Published: 2026-10-26 14:33 UTC
-   - Keyword: AI
-
-17. [Elvis Presley’s Music Owners Sue Anthropic for Copyright Infringement, Demand Nearly $50 Million in Damages - Variety](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXN4YlVaNjVKTmNzLTJmZWc4Y2xnVVd6aUg1VDdYQlB1OHpDaXhwdzlQTUhoQ2kzS3pZRUJ0TlJLZGJCX2RuZzdKVTRVNTE3dVdIWDluNm5BZF9Oa3k3QUhjWWo3eG9KU18tNlczeks5b0R5MmN1S0dveE1yNTdmRGluZmcyRjdoMndJbVM1TXhJVDBxSFJPRERZZ2tZSDRNanFUZUVXYw?oc=5)
-   - Source: Variety
-   - Published: 2026-10-26 14:33 UTC
-   - Keyword: Anthropic
-
-18. [Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares - CNBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5)
-   - Source: CNBC
-   - Published: 2026-10-26 14:33 UTC
-   - Keyword: AI
-
-19. [Anthropic AI bot accessed public Ga. voter data through state data hub - WRDW](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWJpTm9ZVFR2M0s5SzhjSnBneDM5NXJuTjM5cGtCU285WGlyOERKUzBpczEwdU9TMUpwczhYcjM2TFJxcnFsMHU3REEtMmNpaUJ0NmpIQmNQd3ZJNlJnRF9mSGM1Nnd1cElCaGVYUFNLRnk5cUlMdWdfdVU3eFBTOE1wNGswZnhDUmpSWXVkTnctRDFHRDNTano1VnM2YXVPT2pzcdIBuAFBVV95cUxNb1YwLU5MT1VrU3VOOFppd0czcHFSZjZoUks3TlZJWk1BTldDUGwzUmg2VDItSGl5cnItb2hYRWVyenhwR2VxemRzS1J5U1RNblNaM01DR0puZktaTXFfaUctaW5ic2hTRjFkQTZFb0drTkNUcEh4VGVUSUhVNFFLaWdYSXMxTl9nMFRYOW82cGdRQU5vOF9KUUkwWW5NYWRGRDhUeDRkajBwSTd2VlBkY0FGT1NyRU5h?oc=5)
-   - Source: WRDW
-   - Published: 2026-10-26 14:33 UTC
-   - Keyword: AI
-
-20. [Anthropic is Bessemer's largest investment in its 116-year history, says early investor Byron Deeter - CNBC](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlpneGgyODJZSTJwLVdlZ3VkTGp5Ny1YTUNFTno0eTNRZmliQ0RhX1JoRkRBaHg2UkFFUmxQcFhPRGJkT2ZxTnhSLTNZLVd5UjdyV2pVN2FlOS01X29NM0xucEZHdWlTanlNRVcxZGpVdkE4VDUyMlowc3VGY0lIemQ3MEdHcnZxUlNjZlVJeWFPQ0dXVGxiSnBOcktBQllzUmlDbDUxVFFFSTI5b2Zua3Z5YlFOOUZwNDZiSEtUTWFoN1BzV3NGNVNmNVAzVng5?oc=5)
-   - Source: CNBC
-   - Published: 2026-10-26 14:32 UTC
-   - Keyword: Anthropic
-
-21. [Wall St rises as Anthropic's IPO filing sharpens focus on AI trade - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5)
+23. [Big Tech earnings a test of the AI boom amid market turmoil - Reuters](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXF6SzRzQjFlSVJ4Wjk2OEdySTRrS0F3eWlZcXQtRDdXN3hYZ1Z1YmVqbUJzbURWRW9zZHBEcmd3QWNxRGp4QWZuX0VfT1dQNVBJNDNMaXVYSDFHY3NTb2ZvNlJfdjZuUmluNERuS3FIeF92cV9uWVFyQ29zU29ybEFHRU92SDR3ODZvWXpvQU5NZ3dfZGFQcy1iQVhudw?oc=5)
    - Source: Reuters
-   - Published: 2026-10-26 14:32 UTC
+   - Published: 2026-10-27 13:36 UTC
    - Keyword: AI
 
-22. [Anthropic AI bot accessed public Georgia voter data, officials say - CBS News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0hzQTk2MkxxWENxY3NHOGFXbGtMUTBFLXE2Y3VQTlA5VnhmQTI2UmRqUDJvclhJU2o2ZlowNzF2UnFzUVctRlhVRS1lRE4wZ0E3SXJqanRRaTQxX3dfay1mQ3FpMG5ELThFbkFxSmRQVFBPVkdiX3oxUmstLTkyTGFRLUYtWGxXZUoxMGR5TWNRR2NJQVNteWlEbFAzcmxpTmg1c253?oc=5)
-   - Source: CBS News
-   - Published: 2026-10-26 14:32 UTC
-   - Keyword: Anthropic
-
-23. [Anthropic’s 7 co-founders are each worth $14 billion already—and that could double in IPO - Fortune](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1ItYUVsTzQ1emRWNFVvaThLcEdjbUYtaTVZcWoxQzVDa0tjdnYtVWthVkJXZzJ4RHVhNUxZZU9BdWVqNVBkaFBkXzQ3S1VUeFVpTlZCSVlFcVc1aWtlOU1hZzFzM3N3SWc2V0xrLUxOWmNEUndURDlneUNTd2trRmhuYUxZczhsZkcySEN5WHJnTExvR3pfRnk1NUVTWVU?oc=5)
-   - Source: Fortune
-   - Published: 2026-10-26 14:31 UTC
-   - Keyword: Anthropic
-
-24. [Artificial intelligence bot accesses Georgia voting data - The Atlanta Journal-Constitution](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZUpOY0c1MmxaUm0tWU5SNlR4X0xlWXRFT21nZFQ0NTROT0xuYVk2ZzEwcTdnc1lwcjY2RU1XaFAybkFvM0t3RE1Kb0tCSVlHVE4xenZjaE1LU0hkRVlQcGl3OF9QSUlSMl9pTXJudUlWdmVqblJtTjZiaw?oc=5)
-   - Source: The Atlanta Journal-Constitution
-   - Published: 2026-10-26 14:31 UTC
-   - Keyword: artificial intelligence
-
-25. [Pastors weigh-in on artificial intelligence and human beings - KSLM Radio](https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3dlSHJvNWthcVBLRmNfR0F0UXFVMTV6OEJ1ZWlHdXVQdDhGZDNfLUxDc2xDdEg1MW1LcndfMVRVRWZKU0hsckctSHdJQTcyWHRvd0p0eE43ZWI2RWhxcDFXYVkxTVpIVW5fUVBRN0tIVHRYTGRFSjUxTG43UjdSSWlvbVlBdzU4d0xSNXFjZzZmeDFGUHJSblFBNnQ?oc=5)
-   - Source: KSLM Radio
-   - Published: 2026-10-26 14:30 UTC
-   - Keyword: artificial intelligence
-
-26. [Without an Exit Plan, AI Partnerships in Africa Risk Becoming the New Tied Aid - Tech Policy Press](https://news.google.com/rss/articles/CBMingFBVV95cUxOMkhZRU55c3U5ZGpzU3RzSFJKZWR4LXpneVYxbUxKQ054TEpuYld1X0syT25XV1ZjbDRzeF9uOU53RW5TbXJydEh3UGM3dlBIZEV6VUdJV1JEbndYenNIRl92LXR5YmkyVFEwRjZreU5FMkh0Z2JQODJUbTJET0RZeTA1ODY4ajJXTFh4Y2FVX3NrQ1lBUFNzUTNXLWZsQQ?oc=5)
-   - Source: Tech Policy Press
-   - Published: 2026-10-26 14:30 UTC
+24. [There’s not enough money in the world to pay for the AI boom - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBNTFlUd2ROQU5TWXRELUZnczlQX2pnX0UyMXhOY2J1eXdlUUV5TG5QS2hDZGprTk44U3JyMEhmU0RrY2RrbDZSMzF6UWF2aU45R1h2SzVuNTRncDRMZE54S1BZSHFuVExzUE9vVWtxWWhsSVM2cmV1c1VsaGp6cExLYmtVeWtIRWQydmQyUGlpXzVqVDA1U2w4TkRpNVRQWWRjVE83OGFySXlndVZwTEt3Znc?oc=5)
+   - Source: The Washington Post
+   - Published: 2026-10-27 13:36 UTC
    - Keyword: AI
 
-27. [The Artificial Intelligence (AI) Annotation Market is Projected to Experience Robust Growth with a 27.8% CAGR Forecast - EIN News](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmR4a2hLOGZ2eGRIZ0MtcjhPdnRyR09xX0ZtOEx2SFBDRjdsWldGYzR4ZEE5VGx4bVR2Z05OVHZKQjNWRW1TbFItcWJYOGtvWEo5cGE4RmhsYzlhQ1I5TTRtYS1IZDhHRTZxanJMcjRZQkROWGlnZUNwajVQSm9FRTk1aWlqcksxNm9yQS1hU0hzWllkUklsVWl0QjFDYVNiTzRlZXhraWNvNl82MVo1Qkc2aXFfSm5JcVk3ZlBJTUh0Z01QXzFNN00wVHc4OXRfQk9oUU1ZeWJKQzJOaE9JbXRnTFhwSndWV1VmeEhR?oc=5)
+25. [AI Tool Reads Biopsy Images to Predict Mantle Cell Lymphoma Outcomes - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnMzelByZS1UZm1aazFPdWY4ZF9yZVFjVkZZRFVRV1hEZ2o5OFVGSE9jREdpaHhlbUlDQU5vdFRCWXBTRUtkc3RRc2ZQbUhVS2ZxcGxtOUR6aUpHQlhUSU1qWlVlLVNrZlM1bjN0Q1B5SkMzMWd2aE4xSjBCRDJiUThIa2RjOUMxYmFiODRpRUN5ZEVCZlE?oc=5)
+   - Source: The American Journal of Managed Care
+   - Published: 2026-10-27 13:35 UTC
+   - Keyword: artificial intelligence
+
+26. [Gemini's free plan just got cut down; is the $20 Pro tier worth it now? - Android Police](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zZHVseGpveW5IYzBvS0p0cGZNV3FqUG4zc2FuZENjZUFCVkxsakRtd29reXVlX2ZtNHUzeF9pWi0yb3Z4ZkhlbVgtTWk2LU5iSFZOSWV6RGdTMkQ5bEFtSW9rU2tjVnh3d3Vfb2kyTTNsU3NYOW5xODJYUlg5QTA?oc=5)
+   - Source: Android Police
+   - Published: 2026-10-27 13:30 UTC
+   - Keyword: Google Gemini
+
+27. [Doctors Training AI: Where Money Meets Responsibility - Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNS01CckZaeWtuMWdnYmF6WjdzTGsxZjgtVjlnVkxEOFJIVVRBNjNaS25QTGVKU0FITHBVTnV1Vzdsbkh2aVpOLUk4Z0p1MW1ZcmlibHNZV0lycWhHa0Jua3J6bDVHcUlsZFV6b0dkWnpoSU5LN2w4eGkta05GTXZobTlHRF90cTVZX0dNbFdpYXVBbzI2MTN2bnlmN2tlUXgtQTdXZQ?oc=5)
+   - Source: Medscape
+   - Published: 2026-10-27 13:30 UTC
+   - Keyword: AI
+
+28. [Disruptive Closes $10 Billion Megafund for AI, Defense Startups - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjNOU0ZpXzAxcVVaVUFLZGZlZ0FFTGNpaVBGMWt0dnZBaDhBTC14VTItbThVMlhWSWU3ZXVjNzJmWXp6S2owYmhMSWNwLVJpUVBMNnRQSWs1NWk3VW5iVUxJQWVuNEhoNldwU1pHdWxzQUE0bzJBZFV2QzVtZDBZNEdfUHp3VDB1eXdoeGxidDRCS3A4MUJQbkdQRXJ1cU11Vm91VnA4VlhvVlh5bjFQbWRR?oc=5)
+   - Source: Bloomberg.com
+   - Published: 2026-10-27 13:30 UTC
+   - Keyword: AI
+
+29. [Generative Artificial Intelligence (AI) In Movies Market Outlook 2030: Market Size, CAGR, Trends And Forecast Analysis - EIN News](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUGVaREtoQ3ZsMmNydlZqdGFfS2d5eVNnRnpTUG5xMTh2UThTMlFVdFJoMjhMb0RiT1A2ZXNEODhNbGtocFE5bS14bUQxdldndEwzUzB2ZjJPeXNsLTBBdnFwTmhrZVBsaUxld1k3ZWxQdWVMRmkxSm1IZFd5X0xranBfUGhEc2tNLWZDNVRrYy1nWnROZTVkc0ZJaGhIZGdvel9zaHRNUl84WXdiUVJSYndGTXo3RWczLTYteS1fcHhzb0pDOGxQV0lPNlhWNFVqSGpycWFtaFAtYnJXNGVocEh0T0RDMU1vTUp3?oc=5)
    - Source: EIN News
-   - Published: 2026-10-26 14:30 UTC
+   - Published: 2026-10-27 13:30 UTC
    - Keyword: artificial intelligence
 
-28. [Anthropic S-1: $1.6B of first-half adjusted operating income - Opening Bell Daily](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUdUbmhPTDgwVFZrZjVWdEc4dFIyYUxGYlRJTGdaYlRCcnZlbWZXRmkyR3FhMi0yQXVDNVhtU19qSG9hRnYxNi11VTdwREp2d2hlQk9MSFFuMm00di13djN4THhSc1RpTnN6WDdaNUJBUlhjN1NVNTloQ2xUOEpPT0RiYmV6U2Vmbk9va2ktY2dSSlk?oc=5)
-   - Source: Opening Bell Daily
-   - Published: 2026-10-26 14:28 UTC
+30. [Why Broadcom Is the Big Anthropic IPO Winner. The Stock Pops on Upgrade. - Barron's](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHdzX3JsU3hKY3Bxa3ZMM1R2ZThPS21vTnE4Mllid1pLSVJPakxoNndGVGhUMGZMZzE3NU1YeUU1X3JfRmJLSFZsMnQ3UVdaV1h5cFhrN0FrSFp4RXpGa3p0cXhHZTd6QVNFYUttZG1yMlZVX3ptMkUtN0VZOFNnbnVBX0k?oc=5)
+   - Source: Barron's
+   - Published: 2026-10-27 13:29 UTC
    - Keyword: Anthropic
-
-29. [Anthropic's first-half revenue jumps to $16.3 billion - Opening Bell Daily](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3VVanhOYVJxLS1EWjRlTXBoY3BXeGtxQVFuenFIbjd6QjlUSlJ6NDJVYi0wamhraDdmWnE0WTFiaVdTdXJGdVJlZFhrdThDZWpjVFN6UDRKV0NrQ0hlRlZlbkk0dXZFSnMyYkNQSnJROUZIdDRoZllkUVY3OWw1R29pM2JMVEdhU3c?oc=5)
-   - Source: Opening Bell Daily
-   - Published: 2026-10-26 14:27 UTC
-   - Keyword: Anthropic
-
-30. [Anthropic files for IPO, touting AI's ability to "improve how humans live" - CBS News](https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSlY5T3JkOG5YNHVNTDNhWGV2Q3dnVjdLX29OUWRGSllaT3p3NmFKUlFZdzM4NTJ3SzJKcWJMa1UxS1dHLXRrLVpGN1JhTXBfZ0xEdk5FODZQZzVpTWdBbHlubWlMX2dZQkM4?oc=5)
-   - Source: CBS News
-   - Published: 2026-10-26 14:26 UTC
-   - Keyword: AI
