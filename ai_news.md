@@ -1,155 +1,155 @@
 # AI News Digest
 
-Updated: 2026-11-06 15:43 UTC
+Updated: 2026-11-07 14:43 UTC
 
 This file is generated automatically by GitHub Actions.
 
-1. [US tech stocks edge up after AI slowdown fears hit value of firms - live updates - BBC](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5)
-   - Source: BBC
-   - Published: 2026-11-06 15:38 UTC
+1. [Men see more career advancement in jobs with AI, as women lose ground - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNk5OVzNZenhsMVlXMHRod1RNSGlOTklPd1NPZjZiaFpYdGdBMWRWdUJ3c21sNEwwUWpEX21xMEdJQjV1bVhvNm1qXzZaNU5QazRUMGZoNmZCVy1BYkVONm53aUlXVm5jLWpHdjNSSHJiNmY1czZYMXRJZnY4TXVWRDdLSlZKSVBKTjItUWx0NFNOa19EUzg3WF9Zc0NMYkFpc2J6bGhpOEtsUy1pRG5XQW15aWU?oc=5)
+   - Source: The Washington Post
+   - Published: 2026-11-07 14:33 UTC
    - Keyword: AI
 
-2. [How AI is Impacting College Students Like Me - Time Magazine](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXlhVWJVSzdCT0tDRE9BLVhTSzBXdGF6VDFvV1d2cWMxbVRtSU92Q0lVTXBEYVAxYzh1RF9FOXlZeU52QS1fQ3RLQWR3TXVWSzZENWtMVms5dEp5ZzRoS2pEam9uTWU1WlBaQVc3bW41alZuTkd1R29uX3VGWWhNMjNYVEVQQnBf?oc=5)
-   - Source: Time Magazine
-   - Published: 2026-11-06 15:35 UTC
+2. [AI Safety Advocates Make Gains After $110 Million Midterm Fight - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJhRnFjblNCalFSTllsR19sT1RDWC1ZRE50MlBJTlFYQzJhYmRTa1E0RGxxNExfamVvZDdVZUtsYVYwTUFIME90OS16V1FFb0xYTlotTDR4V3VUdVFWdjVmMGI2eVA0Zm1KbDJBUEZWRTFaMnpJZHFYdHZjUXlVcG12NzBJb2R5QUxkLUNKUW53QkFkMjc1OXlLc0V1d2NvcHJzTDRUczRDT1Z3TFhPWHdCaw?oc=5)
+   - Source: Bloomberg.com
+   - Published: 2026-11-07 14:30 UTC
    - Keyword: AI
 
-3. [Anthropic Launches Personal Finance in Claude: AI-Powered Banking Insights via Plaid - FF News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1fMHFtV0dPdWVQX2N5LTI0T1VXX01tU3dYOHRqN3N2Q3RoQWhLUWE2VTdXY0E0VGQtYXlKTjg2Z3Y3UklKZkE0RUdGa1VBRlNyV0lib05ETjhPV1RGWDdQMlhpRUpTOFV4eVRaV3NPY0RKMkZMRDN4TlJvVQ?oc=5)
-   - Source: FF News
-   - Published: 2026-11-06 15:33 UTC
-   - Keyword: Anthropic
-
-4. [Anthropic's IPO valuation could plunge to near $1 trillion amid market turmoil - Yahoo Finance](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUV6dVh5WUcxemZzTXRjYmcxcVRXUHRqSjhUcjZ2VVJjbVdWMi0yMWFaaWIwZUZfTndvQ19LZl9fQk55bElVYUFyeE9pa3RmNEFBak05WEFvRkhpeG1PdFkzZkw5ZnUtczlrSS1HaU44UENxSi1ZTy1LNWZrb3BZQXRhSDZhTVpXODFvRUF2NTFoNkhNSEtYYld4LWpTaHNqSUM5WHIwWVpQNDlCelh5OFJmT0Znc1hrbGJLWDdIaUJUeExMN05KQk5DZkMtVUhiQWc?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-11-06 15:33 UTC
-   - Keyword: Anthropic
-
-5. [Artificial Intelligence Models Show Moderate Accuracy in Detecting Trigeminal Neuralgia Phenotypes - Bioengineer.org](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk5yNk9JRUU0WmltNEZpclZPX3FUSnZkM3EzM0hLdDJxenhMWGlmQlNUZDdaRVU5MlVaNkJSbFNqWjdvNlJXMEo2SjVaUDZoQzY1MG0zUWxhWllaRlozeVpnclZGTDVjUHJCU3B5dFZ2aWdCdS1pcEFNWTNxNjNYU1ZvRFljTjl3TUx4WU5leWwwZWRjZm9FV0QweDVyY2FYOEozcFNlcXZhVWtVYnZUOWItb1BZcHUzaXFWV01QMGs?oc=5)
-   - Source: Bioengineer.org
-   - Published: 2026-11-06 15:32 UTC
+3. [3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash - The Motley Fool](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm5mRGZwVVMtUUkxczVrcTBMRmt6eVk3N0VBM0NRZWV0Q1VLZjdvUmtCYVM4bG9ic285SHlDdFRsMnRfV19sdFF0N0ZiS1NObEJMZmpuSkhySXdqcWVuOE9lSEpjdmdlQWJrYXVsNmc4MWNqUWRoU29UU0d0bW4xaE9mT2hDeEZMV0YweExQRnlBRHdqcS03SFRDcTRKX1dYV0JIQmFmUFJabXU3M2x4N3o5TDNETmVJWS04a0xjWmQ?oc=5)
+   - Source: The Motley Fool
+   - Published: 2026-11-07 14:30 UTC
    - Keyword: artificial intelligence
 
-6. [OpenAI Creating ChatGPT Tools For Business For Analytics & Citations - Search Engine Roundtable](https://news.google.com/rss/articles/CBMidEFVX3lxTE1UbktEVkJ2WkNIOTJsY3BuM3ZiamZWamcxSFNnYlBMQk1mWTk3UEFodUdFX3l1YWdDLU81Q1hJWEJJTHpvQ1FHbS0tOFRYYWJ4Qjd4Y2dZUmk4a1VCejdacVc1WHg4N21jSUk1MHdjQ3pTb1Z0?oc=5)
-   - Source: Search Engine Roundtable
-   - Published: 2026-11-06 15:32 UTC
-   - Keyword: OpenAI
-
-7. [US consumer sentiment improves in November; worries about AI bubble emerge - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2hxVzJrd2JjSnRZanJBcnVQVWx2a1dWaDNpVjVhLVZUenl0THYtUzJVMmViV0VmbTEwd1Bvd2xKRDNjbGRySXhsbDZuakRXcWFjQVpHR1RtYW16akJfdFNscU9zelF4VUlmenY4Vzh2aUpLZXUxcFA4QW9jSmJia0lrWUhqT2g0cVp0V3ZuMmg4WW5jSm1GUnRiMl83TDBPSHNnSS1TVnVGTTUwOFNGY1lVX1J5dw?oc=5)
-   - Source: Reuters
-   - Published: 2026-11-06 15:31 UTC
-   - Keyword: AI
-
-8. [SAP's Sovereign Cloud Wins Face a Blunt Test: Can Joule Catch Copilot? - ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbnZkdE1rZW9jdUZsZVl6SWE2c1N6YWtadVR3WENOTVpFdmlMc0hOWEQtM2V4MU51UWJTanpRZEoxUzBkR0p4MUk2SHVEVUEwbFV3clRLM2F0c0l5LWpVc2puS0F3RWFtVlNKLXBNeE45Zk54N0pTLU1qd090YTlPM2Vva1JPbEluZm1TVTNpSFQ1b2NvVGl6OTl0U29QRk1kdzZORnd1UW5QOWtDUlZHTDVOYUMxc0g2b2pHYk4wZ3duQjBfSDNOd2d0VmVSeFF3ZURoR2tPYw?oc=5)
-   - Source: ad-hoc-news.de
-   - Published: 2026-11-06 15:31 UTC
-   - Keyword: Microsoft Copilot
-
-9. [Anthropic’s IPO Valuation Raises A Question: Is AI Worth Its Cost? - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxOWElwYXJQY29lSmozSVlVYmtxZEp3ZFdOckVfRE15NXFZZmdKN29xTTRmSmZ0cDdIR1Y0NGc2NFZlczBMLU90blN4VVhqNjBOeUpqME5ZYTR3ZGhUdk9vZTZVWjlzSkNpRVBtc1JJRTlYSXRCUjNHRHA0Vm9qS3NtcDJHaWVzcFROaG1MVGRGR3k5OGxCMGJBV1dGXzlmZw?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-11-06 15:30 UTC
+4. [Wall Street Already Has 10 Leveraged Anthropic ETFs Lined Up, and Half Bet Against It - 24/7 Wall St.](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWJtcElRUUgxQjZEb1RVZ0liYnVrdjhHaGdFNFI4TTgxNmVwTXJ5MFFRTkJMR002amZzbkxtWWJDNDl3cF9ubmRPbkI0MGxlRU1lRi1ndVRQN2E5cWFmRHl4b093bVpIdTNSMW9oVTVrWlZfbzJQRkZHXzd2VkhWb1VnNl9QTXpLU1B6cmd3eWhqdXQ5U0VBY3J0dGVVUFRQeFk4SzdlM0t2Zmxta0lzdk52aXpJNHFUUUx2Vnp5QlY4U0R0NF9R?oc=5)
+   - Source: 24/7 Wall St.
+   - Published: 2026-11-07 14:28 UTC
    - Keyword: Anthropic
 
-10. [Forge’s Piteri-Molina on AI, Ohio and what’s next for gene therapy manufacturing - BioSpace](https://news.google.com/rss/articles/CBMitwFBVV95cUxNamxvRXBMa1dLbW1CWlA2NVpOeFlzRHpTWkJYdnRpWVpiNUM0cnM5MHRoenliSHZscnhxWFg0bHlzbnJyX2htaVpuUzVFQ25kOHN0bFhkekNJalBUMjdlWmxMQ2tlM0tFcV8yLVNoVHRpb01LTnBNWnBmZmhmWENmQ0daY1hXamlwVXp6dkNTQjZyR3ZyVFk0YndONWlPMUNzd1I3VGJqWXZGbXpyQm5QeG1VSFBta2s?oc=5)
-   - Source: BioSpace
-   - Published: 2026-11-06 15:28 UTC
+5. [Pennsylvania may require lawyers, other court filers to verify AI-generated citations - Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTlTbFhkQXZwNzZuZG5rWGFfYno5UWdVU1dPLU1IOXZEcUIyNmotM3ktU2RXZjhJMVJMVUJ0VHI5OXpkRjNSb2REVDFUV0dWX2xlbFNqdzJqQnRKZnZsejgtS1ByS0I4bkgwTGNseUQ5NTd6T3pKNDBVM1VObVF6clBmMUlyYWN0NXJhNTZDWHJVX2N0dk5qSTdxdDRiZ1ZqeFdmN0R4NWktWXVCaUpISw?oc=5)
+   - Source: Pittsburgh Post-Gazette
+   - Published: 2026-11-07 14:16 UTC
    - Keyword: AI
 
-11. [SpecterOps Joins OpenAI Partner Network to Bring Daybreak Red Capabilities to Support Enterprise Security Teams - VMblog](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXhucFZQSnlvYU9xY24wcDFDS0M4dFdBNXFwZExwOWJwQlI2ZU1GdlludGVCYjVWc2VXYjZaR0YzZ2NoMkpxR3pNa29iRmZ3dmxMckJocEZKVnZhZGdNRHdrZkFRdVFXOGt4UW95cjVmSE15ZDBEUUlqWVA0b0VvMU51ZERMaVIycmNvVUk4a1NCd1lKWEZXOFQ0Y1VWTnI1aHR5V3NEc3hINXhvUm1sZ21MU2hSNW12VnFoQlVYVHBoOEVncUx1UEJVYW5UckEwZGc?oc=5)
-   - Source: VMblog
-   - Published: 2026-11-06 15:27 UTC
+6. [OpenAI raises $11 billion at $1.25 trillion valuation, falls short of $30 billion target - The American Bazaar](https://news.google.com/rss/articles/CBMipgFBVV95cUxNemRIQV9OZlpBSGtKcURsMnNJR3FxMmV5MkhDT3FENW9IQzlzQkppM3lHV2hKemNHMzNfRUx1aURpV2VTdDlsa05xNlJ5WkwxM29Uc09vVlpYYW1sSUFEVXJ1QWdabDR2SU5JRC1HVVBBRmxWZHBxbTZwMWZIeWgxYnlVT2hwRjVtRzJwSy1qLWxXWUhQMjZKeHduNjlkWktOYmRCc09B?oc=5)
+   - Source: The American Bazaar
+   - Published: 2026-11-07 14:04 UTC
    - Keyword: OpenAI
 
-12. [ChatGPT, Claude, & Gemini Power This Lifetime AI Toolkit for Just $70 - PCMag](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFRMTDExSjVEbXRORFctOVR3Z2VFREFFaFRXam5rdzNtSGY1VnpmZ0ppd0xuTkV4VXpvVnlYanhSZWwxRG81eTUyVVFxWkJMVU5ycXg1ZFRxVmtTdEJPRllER1YzRnpYTl8yZ0tBS0ZNVml1Z0VoTVVkRm91YlNkcDR0bHF1QnRxX1NreFhqbVNmY1VuTmo4?oc=5)
-   - Source: PCMag
-   - Published: 2026-11-06 15:26 UTC
+7. [The AI Revolution Has a Culture Problem, Not a Technology Problem - RFID Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzZvd1J6YWdXV3dva2tHYWVYclRQWFRmY1ZIX0h5M01CYV9jVHF3akxWNVAySDFCRGdKbXBKWlNybnB1ZURQZ0JoRzNJZHJSSU5UcTd6UVZjbjlNdUd6QU5WYldOVzlxM0JrZk15WHNzUFdNQWRiN2FoMzAyYnNpYjA1Qy1LM2kxSFVmSjhuUVQ5dXFXXzI2WGhfM2NGMVpuYnFCX2pxNVNhcVdZLU5qS0dtRQ?oc=5)
+   - Source: RFID Journal
+   - Published: 2026-11-07 14:01 UTC
+   - Keyword: AI
+
+8. [Emory, prepare students for world of AI - The Emory Wheel](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGp5QVNibkdrQXBhSjRsX1ltZmUtR1lvNTlOTWlwWEZXdkhLaUl3SG1aX0FnTFdsQWlZSm1zeWxDdzg2azZrQlc1YTVQTk5QMVZ4ZEVHTFBuTl9MbjJQZWpRVy1jaE1SOU91Slozbm9uVGZpTHV6RGFpZlpaUjEwaDk3WDZXTHdVQmc?oc=5)
+   - Source: The Emory Wheel
+   - Published: 2026-11-07 14:01 UTC
+   - Keyword: AI
+
+9. [The scariest AI threat: What to know about a hidden danger of artificial intelligence - nwitimes.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjUxR1luZFdXN1BvRUJfQ3pnbl9fVERPZnljZzM0RUQzS2Mzb0sxMnhGZWFKZU5zUFZ3Y2pKVm5HYUJFcjRxRkt3dEgwSDYxQ01zOTBBcVJXa1Q4VHRpSXRfbkJFcW5ta01NUTNCdTF6cjk3UTd6dWZDMWFqVWhFMHRyYkluMkdFVzVEc1dKV2NBb2F1MXg2ZVlQSEFwUHo2dFdxdg?oc=5)
+   - Source: nwitimes.com
+   - Published: 2026-11-07 14:00 UTC
+   - Keyword: artificial intelligence
+
+10. [Anthropic IPO Talk Fell $300B; Q3 DRAM Revenue Rose 369% - FourWeekMBA](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREtQdEx3bVV0NUxBNFVqeXZfM0RGMmJMWkIxWWROY1NiTUNfZVRSc3lDZkViSGs5ZjFOUFdiTkxEVWQtcWZZRUxCLXVreTQ3VGVUOEZBMUJSTXRwTWNJSWtTaWlyRUR5SDVJWjFHZ1hHUlNHTHpjUkY1NXhPQUw2LUR1bTdxVm8y?oc=5)
+   - Source: FourWeekMBA
+   - Published: 2026-11-07 13:57 UTC
+   - Keyword: Anthropic
+
+11. [In Finland, the Left Can Lead on Fair AI Policy - Jacobin](https://news.google.com/rss/articles/CBMieEFVX3lxTE15MElTT3BPMmhhTUp5QTlaVDVpejIxQm4tZVlQQTNTS3ZPQzF2V3N6WFVHb1FzdTNaeW02WnNRaHBJbmVwRW5Zck90UTNKNXpLcVcyVXF5VDJrWHhscVUtSGlCd1kxRlNvRE5DSUxPZHd6VUFMenBKSA?oc=5)
+   - Source: Jacobin
+   - Published: 2026-11-07 13:54 UTC
+   - Keyword: AI
+
+12. [AI Godfather Says to Get Ready for a Chernobyl-Style "Blackout" Caused by AI - Futurism](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHlRQTVjLXpUb2stNmdPQUVQSDJKTHJFNmNkTE9hTWRKSzhfZnB3MEQ3dy15QVVxRVR3aEZzaG43XzFsaG9jUWNvX2M2Zm95VVFZUmJrWnROM2JFUTJGbmJGUlVjSEJrTlNnZTJPWUhMSjRWaXFLMlM1QU1VTFRhdlhB?oc=5)
+   - Source: Futurism
+   - Published: 2026-11-07 13:49 UTC
+   - Keyword: artificial intelligence
+
+13. [OpenAI Prices Cyber Model at 2x as AI Firms Write the Scale - FourWeekMBA](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDVsajlJRW9wMzNkaFJ0OEtCNnNqQ3hxaWE2RXJyb0pjSDgwY21MUUEzSk1xeTZwMmpvTzF0TDBPOTk1YnpLX1NLbEpTWVpOX01ZYS1HRk1GX3Z3LWQwbjZ3SHdxQVRMb1hSaGdjTHRtUXBJY2FYQWRYM1ZZa2kySkJQNDMwNXhtaUVKVWxqdHQ?oc=5)
+   - Source: FourWeekMBA
+   - Published: 2026-11-07 13:47 UTC
+   - Keyword: OpenAI
+
+14. [I tried Gemini, Grok, and Claude for a month on Android; one clearly dominated - Android Police](https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUw4elFsWGhOcEZZRWQ2STVFX1VIblUwUFhtLVlPTm53ZU5PYl9sUVc3NXh1ZmxBVFZaMmZIcXBqQU9QSS1aVXJPNmhUOHpROFh2NHYtX1ZOWVZKamM4dTZ2aEYxdFFmN0J4TmY2ZUVVUWtJUWpERGlELWRJbDlQWkVHSVB1eml2OU5wTnBkb3ROd0dpalFmTUo0TTdWbUk?oc=5)
+   - Source: Android Police
+   - Published: 2026-11-07 13:45 UTC
    - Keyword: Google Gemini
 
-13. [AI-powered youth education has come to Boston. Teachers aren't happy. - WGBH](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1U1QmRmY3NRTk9BQmFTNGtENDJoSVNfTFhtOThRTUtFYVBiSHpGNjRuaERhSXhuTGhsY2hySE15OTFsVEpNNjVLdUd1bkpya1h1OTBkMEduUnQwMDNYNUJFYVFKT3c5VXJGYTVmLXU4dHVWd2g2Y0VKRUhMdVctb0plQzdIRnVoOHo0eHNKbHlEdXlvZWI5T21NUDZyRDdGTmV0Z1QtYlpzSHVxNUtkOFByZ2VZYjFPbkE?oc=5)
-   - Source: WGBH
-   - Published: 2026-11-06 15:22 UTC
-   - Keyword: AI
-
-14. [Interactive Web Applications Combine Artificial Intelligence with Modular Scientific Simulation Engines - Bioengineer.org](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHBlWjAzcHM3N3F2Sjd4QkhNM05oQzZGUDhtZmVLcENWWFBtLVpyNGI5U25ZWnRqSWR0cy1iTnRoSlI3ay1hR3hWdmxVRVZsNFFhRnRCZXU0eHFrTXVNdmQ3RHdqclNtLUFRaktRVVNjdkpEaWowb3FlM0V3VUZMOWpzVXFTZUlmMGg0eExsN2hJbzhZcm1JcTN3bnBFNThXejdsUS1tdVB1d05SaHJaNDMybEo1eTU5cWNwb1otMkhSYTU0ckJz?oc=5)
-   - Source: Bioengineer.org
-   - Published: 2026-11-06 15:22 UTC
-   - Keyword: artificial intelligence
-
-15. [OpenAI responds after Effingham County delays data center vote - WJCL](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWtmYnNNbTFHcjlncjduYW9YWXNRdXhSLUJKNHY2N3J2dUxValJxeC11X2YyenNpWUQta0l5UEsyMGpPUlM3OXhFU3NwQXFWdUVpOHRLRXNqYXE2U3F4YkV2Rmxmb3VfRGhuSXlMNnc3U1Zab3ZkZEpKaDZHMkVKbFZKbjItREx3MWllU1BR?oc=5)
-   - Source: WJCL
-   - Published: 2026-11-06 15:18 UTC
+15. [OpenAI CEO Sam Altman says RAM remark was taken out of context. The transcript half agrees - Martin Cid Magazine](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFBSdTJ6dmJDTUs3dmFhTkEtSE1HSkprVG5pdncwcEVIcVFkU04zQmpsMEE3VmtmOThWNkZXRVNPQlBGRkMwREhheWhYMExnLTFUb3BGTTI0MUpTNzlPcHZUWjdJczhIalVZUlVZM3BFNWhHWF9sVWtnX0JmZi1TTzN5OVR5SDR5MG9hdDVYcEM5YUE?oc=5)
+   - Source: Martin Cid Magazine
+   - Published: 2026-11-07 13:44 UTC
    - Keyword: OpenAI
 
-16. [Opinion | Job seeking in the age of AI: The robots read my cover letter - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUpqS2Z6S0hrLVlJUnN1R1NXeS1NTF9vX3ZxQmVUMUVPRDcwY0pvRThlbmJSN3lMNGd3Z0U0bHNZa3RuYk9iMXZtX1BHNUViZUExeDBGOVZTbkNtT2pSWXB5MW1GOEdVRG5KUjFIcEZycDdwZHJUVjY4RjR0SFlkYUZ6Wm1nV3VGWlVTd3M4dzN4WldvR25FcGd5enlQNjg?oc=5)
-   - Source: The Washington Post
-   - Published: 2026-11-06 15:17 UTC
-   - Keyword: AI
-
-17. [VCU project will bring AI and cybersecurity training to the next generation of nurses - VCU News](https://news.google.com/rss/articles/CBMieEFVX3lxTFBPWThoaHZpbGZFOXZDblFSbElwa3JYaW1JN090a1hCaHNIM2FUOHp4U2dsbElWT1FBZ2tybVVOcjVGMlMyQWdxZnVzT05yT21RNWlCb1pJS2F2NEtCRURheGhyLU5xeTB2dXpNSC02Tnd0aXA2QlJfUA?oc=5)
-   - Source: VCU News
-   - Published: 2026-11-06 15:14 UTC
-   - Keyword: AI
-
-18. [Dems planning flood of AI bills when they take control of Congress - The Detroit News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmp6ejEtQkM3bUItejk3YTNkQzNIMVQ4VkNHNXFsVTlqVHh6anE0RHkzWGR5RHNfbjF5NFZLYVBGMHl1dzhsOUg4eXI3NzBQajZzWkZHaFllTHpDcDAtc2pHWS1QUC03ZmVHTjB6TlMwNkNKZDVrOWYtTUhyYktCX0dBLTd2ZmZ5T0ZpZWUzeFZGZTR3THFvamo1eWY3Tzd4RkZWS0F3OVpnSzhxQXNTU0JBQVZQWkg2UnpWOXhialQ2azJVd3NmVGhUY213Q28?oc=5)
-   - Source: The Detroit News
-   - Published: 2026-11-06 15:14 UTC
-   - Keyword: AI
-
-19. [Cambay Solutions Joins Microsoft Financial Services AI Roundtable in NYC - From AI Experimentation to Enterprise Scale - EIN News](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVGRCcFV3R2xydDFMTXh3UEZXZFB5ay1zU2lRWjhQY3p2eWNqYlZRSkI0bWExN2ZkMTNTdFVXY1JuQXZkUXFPT1d4VURPNHBUX1lJWDBuUTFVVzlyWWEzdkRKZ0NHSkgzMk40d1RxMmN6VTJMcUlzbklzdEN6TkdiY210SUlnVklKSW1sV0NaTVFQQ0R4elB0T3oySHVUWVBpdzRGYlVGRFZVOFZ1azdjU19IX3BHd0tnOHF0SWNnenYtbE1HUUswNUlXQkVmYWxlblpzN2hGRE5ZeG05bU56V1VSa0EyTEgyclBsdzFEQQ?oc=5)
-   - Source: EIN News
-   - Published: 2026-11-06 15:14 UTC
-   - Keyword: Microsoft Copilot
-
-20. [AI won’t ever make an historically accurate film – but it could help archaeology create better stories - The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGVBR1JINmRSWElDdFBob29yLWpQOUFGVmNUbWt0Sm5WWlpKZWJuY0RJZVhYQUNubGtoS1FsN1BEQWk1M1RjbHduNUVyQnl3LTJiTC1KUnctbFJNdUd6ZzZkcVJTWTFQUDl0ZGJWcDhQZ25PQ1RHdy1RMm4wckxHOUROaGREazhjN3dTY1RDVTczV21QTVNwc3BJRk1FX21HMXhmWXBuVDc3SU9qM19qbDJnUndEZkg2azR0TUlpWVIteDhONlFYYTNFem5LY00?oc=5)
-   - Source: The Conversation
-   - Published: 2026-11-06 15:12 UTC
-   - Keyword: artificial intelligence
-
-21. [Protesters storm Microsoft AI data center construction site in Amsterdam - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG9CNy1qak9lRUJWejdRZHBvaXlPQk9nRmxFVGJNaWhHb05rdHprR18yWGtVR01ha2NYOVZzTTNDM0pGZjZubjZ3N18zdmFkTVFmakNNbjVvNS1wT1ZuRHJGRFI2TWVZZGJNZTBTSWk4ejBFOHMxNGZNcmExb3p0TkVnU0E5NklPeTlyR2w0VjZqWUZ6cnpqb3VhdGo4RkxCR09YeHJLNFNNa2V1bi14ZU52RjB3LVRJ?oc=5)
-   - Source: USA Today
-   - Published: 2026-11-06 15:10 UTC
-   - Keyword: AI
-
-22. [Can an AI ‘Co-Scientist’ Accelerate Cancer Research? | Newswise - Newswise](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWktNSFFsRE1rNk9FM3VVeWtla20waEJWbWhTTGZVVTRCLU1KdG9VcDF4M1VOc2oweDVILWlfYzVINDhfOW5RTGp3ZmdYVVd4Vk5uTi1XdlhZcFNKT25IdGdhdkpGZ2l1NmtXTjlmSGp0VkxpcEd6b1dZaUJPenpQanlyTjZ6X01NWVFZ0gGLAUFVX3lxTFBaS01IUWxETWs2T0UzdVV5a2VrbTBoQlZtaFNMZlVVNEItTUp0b1VwMXgzVU5zajB4NUgtaV9jNUg0OF85blFMandmZ1hVV3hWTm5OLVd2WFlwU0pPbkh0Z2F2SkZnaXU2a1dOOWZIanRWTGlwR3pvV1lpQk96elBqeXJONnpfTU1ZUVk?oc=5)
-   - Source: Newswise
-   - Published: 2026-11-06 15:10 UTC
-   - Keyword: AI
-
-23. [OpenAI buys tiny software developer to improve Codex - Computerworld](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHBSSC1TbG5LQmtlTXQ3eDF0b28xT05tVGFMeUJEUGhoVWg0TUlKU2wxRUFnVm9IRGxrcGtOcEZxZ3R0QnpDZXU0LTcwbTZsUm1USGtkcHBibjZ3XzZLMzJDOFNYcVdFVlpUSjNnQ0Yyb3dvZV9oZmRGck52WjNUaEpEZS1VYlVKU3ZtUFNXcmpjcDZHbjJXQ1RTQi1uaS14NGVHeldwY2I?oc=5)
-   - Source: Computerworld
-   - Published: 2026-11-06 15:09 UTC
-   - Keyword: artificial intelligence
-
-24. [What the OpenAI–Hugging Face incident says about AI agent access - SC Media](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXBtRmo3cWdPTkJtbFZVLXlVWHUyekQ5ODc1NkhrUTFoQzRoLUZINzFKOXhBY0VjVmZVaGp4QVhCZjRDTHpWMGp2MERJa3laeW1OTm1fQ2F1dW9RSHlZZzI0TWVoT1NxXzgzWlZoMHZQTHZmQU5BTV9OaU53Umh2eFJNMGNzbmI2SjJGaFY1SkYwU3hPLWk1OHBNUW1XUTFxOUE?oc=5)
-   - Source: SC Media
-   - Published: 2026-11-06 15:07 UTC
-   - Keyword: OpenAI
-
-25. [US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5)
-   - Source: Bloomberg.com
-   - Published: 2026-11-06 15:06 UTC
-   - Keyword: AI
-
-26. [Iren stock rebounds as company's Q1 AI cloud revenue surges - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRG9fME1GUHBNUHZsYlpoRnpRYXYzbGFYSnc3Rm52RllUYTROTjRDbURzdFBIR3FYdks5b0EtYXhyUUtUcUEzVmR3czIwYUp4Y09LSlRZZHhjTDUwX1QxcFFtcjV4bVQ3NnYxS0V5U2NNS2FXYzBJNnZLQXpMdWFzN1JOYlFZcFRtMGttcmRaUEpaX2hCX2E1Ri1odUpaU3dJT2JEeGZ3RUtGb3M?oc=5)
-   - Source: Yahoo Finance
-   - Published: 2026-11-06 15:06 UTC
-   - Keyword: AI
-
-27. [Anthropic Just Gave Claude Access to Your Bank Accounts – Here’s What It Can See - Gadget Review](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU9ZaHhETTA4YmZiMmMtMms5WVZneWtneDVTQ2RzbGNIcVRfNjBkT2MzbDltVnlWRlMyOUx2ZmtsclUwZ2JEVlBZdndkQmNxb01FZ0Q0cS10QnNNdWVmUUljcGNGS2w3QWVsX3ZtTDV5QVdrSUt3WVBQQ0t3Uk9MWFY1djk0U2R2NUlYUkdJalpQTnl2aE5VU2xqSWNHVjUzbE1VdXFYU2JsUQ?oc=5)
-   - Source: Gadget Review
-   - Published: 2026-11-06 15:05 UTC
+16. [Anthropic’s Planned IPO Puts Public Trust and Data Centers in Focus - Unite.AI](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpna05uT3k0OTM0T1BPSDl1ZmExbnhkUXZFX3ZtUl9Rb2FhN2RzdHhDRWxIeVBFWE1ZQ3p1UmVHb09rT0F3LW5QX3dkQkJ6ZkNmS2huQkdlR2pwdzBvQVYxbXpGZDhnT2NqTURNLWFnNENHYm9udmNmU2RCSWVtbHBIZS1PUm9UaXVhdUU2NmgyUQ?oc=5)
+   - Source: Unite.AI
+   - Published: 2026-11-07 13:39 UTC
    - Keyword: Anthropic
 
-28. [AI stocks bounce back after trillions wiped from market values - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5)
-   - Source: BBC
-   - Published: 2026-11-06 15:04 UTC
+17. [OpenAI Just Raised $11 Billion at a $1.25 Trillion Valuation, Below the $1.4 Trillion It First Sought - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHgwal9kaEktbjNXcWt5V1NIcUxqZEVwclh3NXFVME5DTUk2LTNPdjNZd2RJZENhMm1KRTNLS2p6aWhQTUI3QU1VTXNycDVvZUVxMXBhWmZXeVRPd0xEdG8zejhOdHM4Ny1lUmo0SmxfVll6bVZrSUVMM1RkQU5MaElJWXZJV3dwNEtISjU0LWZDcFJpSE5PaA?oc=5)
+   - Source: Yahoo Finance
+   - Published: 2026-11-07 13:38 UTC
+   - Keyword: OpenAI
+
+18. [OpenAI Just Raised $11 Billion at a $1.25 Trillion Valuation, Below the $1.4 Trillion It First Sought - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1KRzlUZnR5dl94dWRhOF9McTE2UG5kUEo0dFR0TWhBeGVNUUlUX2VQTEh2YWdUZTUxNGhMUGNCdzlFQzhpcW5QOGpRcTZVMDdoRktOVi1HTHVFQ2hrUEFvMHdMd2UwcVdCaGhPREJJT21SbEhWY2VOOTZlaWpFdw?oc=5)
+   - Source: AOL.com
+   - Published: 2026-11-07 13:38 UTC
+   - Keyword: OpenAI
+
+19. [From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - WRAL](https://news.google.com/rss/articles/CBMixwFBVV95cUxOblVMcmlWSk0tV1lmMDdDUlZRUm9BVUtMWXJGUFBHOHpRR28xU0xaMHZVVHY0X3pDcUNzcE52LUo3RlV3RDNQRVUyTXdoTGs2QkwzTERFUG16Qk52MTJ0RlhMenFXN0p0Q3dQNUZiNUF4Z2ltX2tOOW14XzJ5T1pLZnFfczBITHlkWGxYdDFJQjdMVV92QUk1akZiZXlFTXBMNXhyQVBtOGNxOU5jZXp1eFRDOVdhUV9SeXM0VWJFdXpsNTNsVVpr?oc=5)
+   - Source: WRAL
+   - Published: 2026-11-07 13:36 UTC
    - Keyword: artificial intelligence
 
-29. [The PC Is About To Be Reset, And AI Will Dictate Its New Future - Forbes](https://news.google.com/rss/articles/CBMitAFBVV95cUxORElRaThuYmstQzBLdnhMTVZhbkhaWWJEQnIxdG9jdDI1akZBVktqV1dpZFNsNkQ2M25hLW5NcDgxZjA3UTl4OEtNZTNWTXNQLTZseXJRRWQ3SE9Gd3R5SmFuNnNwMnMzWmxNajBBbG5Ec2RmdTVaeGdnTDNjbHRJS00wcDB5UnFOMXdGV0hra2t5UWx3Szh5dnkyWVF0c1UtakVxdU5OeUtzMERqamxPX2VIb1M?oc=5)
-   - Source: Forbes
-   - Published: 2026-11-06 15:00 UTC
+20. [Anthropic prepares for Nasdaq IPO valued up to $1.5 trillion — CNBC - UA.NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOal9YSW9pWlJLTGtxZUxqLS13d3Y5RTJrZ2swR1NQRE9TRS1iTmVuRUxUa1VRUk9QWHBZOWFNZ1FPM2llNldxLXpGa1FKOEduQmhEdDFPOXdTcnZabm9yOUJyeDAxYlZhdW5lbkVpNmNfd3Y4UjJmV05XamhGTnV3ZU5UazhsdWY3dDlVb0hfMXhrSmtFODJYajRKTlAta1ppV1NBTjR5YzI?oc=5)
+   - Source: UA.NEWS
+   - Published: 2026-11-07 13:31 UTC
+   - Keyword: Anthropic
+
+21. [Better IPO to Buy: Anthropic vs. SpaceX - The Globe and Mail](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHVSZzhfcUNLTUxKR1ptZWR1T1NDSGhiQTIxVDNaMnJYcTd5bkZNMUtrd0RVMTl3UndEVWpzRkdPMGFRNlFFalZGRW9BdVZLeXFCcGc2VTFJbHF3UmxrcWVVV1p6cnNtaDVtM3dMN2QzaGw2RHRwUkF3dTdiYkE5MUhQMEl0NV96THZUZW5lVVNKdzVMN0hFaGpXUDBySVI5ZlNHZTBnMV9kWXFYdzJWR1ZNUVN6ekFGaHVwWXRiUQ?oc=5)
+   - Source: The Globe and Mail
+   - Published: 2026-11-07 13:30 UTC
+   - Keyword: Anthropic
+
+22. [Democrat shaping AI policy bought chip stocks despite backing congressional trading ban - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWpGNEh5dXFLVVRVSGk3c3A2LW1NNUV5WEtIMDdwUHNGODVZVXZCWktHNjFMWXpVVS1JZTl4SnVrTHNXMlVJRjdrTkJ2a19MQUNzSEVGWjJTbDQzbVR6bnhQUWk2cGEtT0xNVkcxRlpBWmRtWWVydzU5Z3JMUlZJUnBsdmRxWXJFMzBr?oc=5)
+   - Source: CNBC
+   - Published: 2026-11-07 13:30 UTC
    - Keyword: AI
 
-30. [The AI boom’s missing balance-sheet question: What has actually been verified? - SiliconANGLE](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDFTRHhaR04zckwxaGsxUEFkcVo4SW9RRVF1UFN3TkRTN1pNaWNWOWhaaU9kd3RUcEVJU1kzaU92VE12NlZaT0NCUTlDRXhtNm04c3JmXzIwNmtDUkNhMEVjMFR1STVqUGdEN0J3SWpULXZPeC05cE5TaWhIelhjRmhCUkNaVW1PYWpnTnlqU1R1MnZBYVNmc2F3S1RSMk14OEJJZnoxTVJmQWVXdWJla0Rn?oc=5)
-   - Source: SiliconANGLE
-   - Published: 2026-11-06 15:00 UTC
+23. [The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time - MarketWatch](https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3hrdzRJZkZxWlhPSDhkX0IwNTdBWFdfNERhMFN3M3FyTG8wQmlCYW54WnZiM2p1V3RxNFJGdi1jeWZteWM4OEJfd1FybVpYOW9NSHo5Ul83Q1l1V3hOSE1SZl84QnltSFp4WTBoNlhhM3lZUXhIaUZnWmlnd0VNaEJxZUVUQ0lScjJKUnVqMDhkUXRQTjhyZzJDZF92ZU5XM2tCNUtqRHptUElZb1FPR2lEeGRLc092dGtTd0htZTJsYS05WkM3cnd2Tk1mQQ?oc=5)
+   - Source: MarketWatch
+   - Published: 2026-11-07 13:30 UTC
    - Keyword: AI
+
+24. [Anthropic IPO Valuation Estimates Fall to $1.3 Trillion: Report - TheEnergyMag](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qd1J5VXRxX3VZb3BsTnNRaDFsZGZWRUttejhSM2RNWFlsRVpCXzEtRmxGaEswU1dfNTdNY3pEU1hOTUh5cFhOTHZwZm1pd1VWUmZvbjdJMUJCaFFFdmxxYzM3MHRReld0T0FlM2dHVm1jTGtleXN2S0gxajk?oc=5)
+   - Source: TheEnergyMag
+   - Published: 2026-11-07 13:28 UTC
+   - Keyword: Anthropic
+
+25. [Consumers Are Now Worried About an AI Bubble, Michigan Survey Says - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxPUG9mWW9KTnNsWDNxc1VwWEhYcVpGWXpSdDA1V0RkdGo3eUNuRzNqUDJmWmtEQ0RjVkYyRGk1aVNPQU1JaFVvWEcyR2tDNDE1bF8tWFkzVmRUQjc2Y3c1UEZBbHNyU2lRNmlHNzdkMEh3eUdFR1NkNHd5cGlqSGpaNGNnWG5Vc0MzRktLSE9XU2U2emJXUTdGY1BUR1g?oc=5)
+   - Source: Yahoo Finance
+   - Published: 2026-11-07 13:26 UTC
+   - Keyword: AI
+
+26. [3 deliberate moves for businesses to maintain trust in AI decisions - KVIA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVlueXBiaHdVcl9oR1RNdVZvZzNQYXNPVVB5TVBOREVRX3h2cUw2VEd6SFZFdmk0eHNBTlJaNWFWUHZnMEdydjR6UEdFV1lJUlc0ZDQ0ZEowOTZ2dkRkWTB6YnNrbVFTeDh4cXN5cnBFeGdhR2pFdUMza0JPSXd5Njd4dk10cHRIYWstODJDeFhJMk45VDczbmsyYXAxb1o1c2h5UmlpSmdibmc?oc=5)
+   - Source: KVIA
+   - Published: 2026-11-07 13:25 UTC
+   - Keyword: AI
+
+27. [Spinoza and the Thinking Machine: The Philosophy of God, Nature and Artificial Intelligence - www.lvivherald.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcks0MXotNTZjNXFmUTRSd2h0WTM3MHR1VDlBa1JtdDRqcWlCMkduaWFTS2p0MzdrZ05YOXBZVEZPT3EzUm41SE43WVVZNEFfSVpaUDNxY1FOc3FpME04S2gwSWpJMHVGTl9HZnU4bXBCM0RqVVlWWmg0NnN4X2hKN0otSmpkb1p6LXE1TnlpVWo4R1Yzb3dOMFpPT2hXa3lOSWpFa2tmQkdhbjRPY1h0czF4enJrWDZxZTJRODJR?oc=5)
+   - Source: www.lvivherald.com
+   - Published: 2026-11-07 13:21 UTC
+   - Keyword: artificial intelligence
+
+28. [Anthropic IPO: $17B Q3, $895.4B Bills, No Date [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWhmN2hDOWJDSWYtUGRIOVJoM3ZPYl9MR09xaDYxMWUzem1laU54Y0J4NkNxalctVy1GQTVFRkFERU0xajJQTXFFN3hTRUVFWU4xd0Ixbm0wcnFIT0FqU3JBbnM4ZHlmWXFDUTFGcFFSNDBpNFNaS2JyUlpuajc5Rlhqd1UxcnVvMVp4eTk1aDM?oc=5)
+   - Source: https://tech-insider.org/
+   - Published: 2026-11-07 13:21 UTC
+   - Keyword: Anthropic
+
+29. [What Is Confirmed About the Anthropic IPO Today - shattered.io](https://news.google.com/rss/articles/CBMieEFVX3lxTE53S1RTX1RNd1dwaHAycTN3SlJ5MFRnejU2S3huR2ZfNzRQVzlsbUU3ak1hMmluSTdYRG0xM092T3F6cTRIU05vV05aQ3VtUVVyOWlNUjRhSDhoUmlRUXU1Y2VBZFNjbnhhTnlwNTlJMWJwcnFSTWVLYw?oc=5)
+   - Source: shattered.io
+   - Published: 2026-11-07 13:17 UTC
+   - Keyword: Anthropic
+
+30. [Better IPO to Buy: Anthropic vs. SpaceX - شبكة تواصل الإخبارية](https://news.google.com/rss/articles/CBMiU0FVX3lxTE13MlRSOE10dEVHYlRETDVZTm9qbzBHYVpzRHRrWVU5OG5pVmYtc1JsRVlZcWk0ZGRvUEx6UWpFS3BWTEUtQUdWMkR2ZU1aRml1NUtj?oc=5)
+   - Source: شبكة تواصل الإخبارية
+   - Published: 2026-11-07 13:16 UTC
+   - Keyword: Anthropic
